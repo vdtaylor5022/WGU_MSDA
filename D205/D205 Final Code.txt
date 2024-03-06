@@ -1,0 +1,48 @@
+CREATE TABLE services (
+    customer_id TEXT NOT NULL,
+    "InternetService" TEXT NOT NULL,
+    "Phone" TEXT NOT NULL,
+    "Multiple" TEXT NOT NULL,
+    "OnlineSecurity" TEXT NOT NULL,
+    "OnlineBackup" TEXT NOT NULL,
+    "DeviceProtection" TEXT NOT NULL,
+    "TechSupport" TEXT NOT NULL,
+    PRIMARY KEY (customer_id),
+    FOREIGN KEY (customer_id) REFERENCES public.customer(customer_id)
+);
+
+ALTER TABLE services
+    OWNER TO postgres;
+
+COPY services
+FROM 'C:\LabFiles\services.csv'
+DELIMITER ','
+CSV HEADER;
+
+SELECT
+    COUNT(customer_id) AS total,
+    tablet
+FROM customer
+GROUP BY tablet
+ORDER BY tablet;
+
+SELECT
+    customer.tablet AS total_tablet,
+    services."InternetService" AS internet_type,
+    COUNT(customer.customer_id) AS total_customers
+FROM customer AS customer
+INNER JOIN services AS services
+ON customer.customer_id = services.customer_id
+GROUP BY customer.tablet, services."InternetService"
+ORDER BY customer.tablet, services."InternetService";
+
+DROP TABLE IF EXISTS services
+CASCADE;
+
+COPY services
+FROM 'C:\LabFiles\services.csv'
+DELIMITER ','
+CSV HEADER;
+
+
+
