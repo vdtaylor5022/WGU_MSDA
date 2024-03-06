@@ -1,0 +1,53 @@
+-- Create churn table (Internal data set already available in PgAdmin)
+
+CREATE TABLE public.customer
+(
+ customer_id text COLLATE pg_catalog."default" NOT NULL,
+ lat numeric,
+ lng numeric,
+ population integer,
+ children integer,
+ age integer,
+ income numeric,
+ marital text COLLATE pg_catalog."default",
+ churn text COLLATE pg_catalog."default",
+ gender text COLLATE pg_catalog."default",
+ tenure numeric,
+ monthly_charge numeric,
+ bandwidth_gp_year numeric,
+ outage_sec_week numeric,
+ email integer,
+ contacts integer,
+ yearly_equip_faiure integer,
+ techie text COLLATE pg_catalog."default",
+ port_modem text COLLATE pg_catalog."default",
+tablet text COLLATE pg_catalog."default",
+ job_id integer,
+ payment_id integer,
+ contract_id integer,
+ location_id integer,
+ CONSTRAINT customer_pkey PRIMARY KEY (customer_id),
+ CONSTRAINT customer_contract_id_fkey FOREIGN KEY (contract_id)
+ REFERENCES public.contract (contract_id) MATCH SIMPLE
+ ON UPDATE NO ACTION
+ ON DELETE NO ACTION
+ NOT VALID,
+ CONSTRAINT customer_job_id_fkey FOREIGN KEY (job_id)
+ REFERENCES public.job (job_id) MATCH SIMPLE
+ ON UPDATE NO ACTION
+ ON DELETE NO ACTION
+ NOT VALID,
+ CONSTRAINT customer_location_id_fkey FOREIGN KEY (location_id)
+ REFERENCES public.location (location_id) MATCH SIMPLE
+ ON UPDATE NO ACTION
+ ON DELETE NO ACTION
+ NOT VALID,
+ CONSTRAINT customer_payment_id_fkey FOREIGN KEY (payment_id)
+ REFERENCES public.payment (payment_id) MATCH SIMPLE
+ ON UPDATE NO ACTION
+ ON DELETE NO ACTION
+ NOT VALID
+)
+TABLESPACE pg_default;
+ALTER TABLE public.customer
+ OWNER to postgres;

@@ -1,0 +1,151 @@
+DROP TABLE IF EXISTS competitor;
+
+CREATE TABLE IF NOT EXISTS competitor(
+	customerID text PRIMARY KEY,
+	gender text,
+	SeniorCitizen int,	
+	Partner text,
+	Dependents text,
+	tenure int,
+	PhoneService text,
+	MultipleLines text,
+	InternetService text,
+	OnlineSecurity text,
+	OnlineBackup text,	
+	DeviceProtection text,	
+	TechSupport text,	
+	StreamingTV text,	
+	StreamingMovies text,	
+	Contract text,	
+	PaperlessBilling text,	
+	PaymentMethod text,	
+	MonthlyCharges numeric,	
+	TotalCharges text,
+	Churn text
+);
+
+copy competitor
+FROM 'C:\Users\Public\Downloads\kaggle.csv'
+DELIMITER ','
+CSV HEADER;
+
+UPDATE competitor
+SET "contract" =
+  CASE 
+    WHEN "contract" = 'Month-to-month' THEN '1'
+    WHEN "contract" IN ('1 year', 'One year') THEN '2'
+    WHEN "contract" = 'Two year' THEN '3'
+    ELSE "contract"
+  END,
+"paymentmethod" =
+  CASE 
+    WHEN "paymentmethod" = 'Bank transfer (automatic)' THEN '1'
+    WHEN "paymentmethod" = 'Credit card (automatic)' THEN '2'
+    WHEN "paymentmethod" = 'Electronic check' THEN '3'
+    WHEN "paymentmethod" = 'Mailed check' THEN '4'
+    ELSE "paymentmethod"
+  END;
+
+ALTER TABLE competitor
+RENAME COLUMN SeniorCitizen TO senior_citizen;
+
+ALTER TABLE competitor
+RENAME COLUMN partner TO married;
+
+ALTER TABLE competitor
+RENAME COLUMN PhoneService TO phone;
+
+ALTER TABLE competitor
+RENAME COLUMN MultipleLines TO multiple_lines;
+
+ALTER TABLE competitor
+RENAME COLUMN InternetService TO internet_service;
+
+ALTER TABLE competitor
+RENAME COLUMN OnlineSecurity TO online_security;
+
+ALTER TABLE competitor
+RENAME COLUMN OnlineBackup TO online_backup;
+
+ALTER TABLE competitor
+RENAME COLUMN DeviceProtection TO device_protection;
+
+ALTER TABLE competitor
+RENAME COLUMN TechSupport TO tech_support;
+
+ALTER TABLE competitor
+RENAME COLUMN StreamingTV TO streaming_tv;
+
+ALTER TABLE competitor
+RENAME COLUMN StreamingMovies TO streaming_movies;
+
+ALTER TABLE competitor
+RENAME COLUMN Contract TO contract_id;
+
+ALTER TABLE competitor
+RENAME COLUMN Customerid TO customer_id;
+
+ALTER TABLE competitor
+RENAME COLUMN PaperlessBilling TO paperless_billing;
+
+ALTER TABLE competitor
+RENAME COLUMN PaymentMethod TO payment_id;
+
+ALTER TABLE competitor
+RENAME COLUMN MonthlyCharges TO monthly_charge;
+
+ALTER TABLE competitor
+RENAME COLUMN TotalCharges TO total_charge;
+
+ALTER TABLE competitor
+ADD COLUMN company bool DEFAULT false;
+
+ALTER TABLE customer
+ADD COLUMN company bool DEFAULT true
+
+ALTER TABLE competitor
+ALTER Column contract_id TYPE Numeric
+USING contract_id::numeric;
+
+ALTER TABLE competitor
+ALTER Column payment_id TYPE Numeric
+USING payment_id::numeric;
+
+CREATE TABLE combined_df AS
+SELECT 
+    subquery.customer_id, 
+    subquery.gender, 
+    subquery.churn, 
+    subquery.round_tenure, 
+    subquery.monthly_charge, 
+    subquery.payment_id, 
+    subquery.contract_id,
+    subquery.company
+FROM (
+    SELECT 
+        customer_id, 
+        gender, 
+        churn, 
+        round(tenure) as round_tenure, 
+        monthly_charge, 
+        payment_id, 
+        contract_id,
+        company
+    FROM customer
+    
+    UNION ALL 
+    
+    SELECT 
+        customer_id, 
+        gender, 
+        churn, 
+        round(tenure) as round_tenure, 
+        monthly_charge, 
+        payment_id, 
+        contract_id,
+        company
+    FROM competitor
+) subquery;
+
+
+UPDATE customer SET company = true;
