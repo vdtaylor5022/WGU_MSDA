@@ -1,0 +1,998 @@
+,review,sentiment,word_count
+0,"['slowmoving', 'aimless', 'movie', 'distressed', 'drifting', 'young', 'man']",0,13
+1,"['sure', 'lost', 'flat', 'characters', 'audience', 'nearly', 'half', 'walked']",0,19
+2,"['attempting', 'artiness', 'black', 'white', 'clever', 'camera', 'angles', 'movie', 'disappointed', 'became', 'even', 'ridiculous', 'acting', 'poor', 'plot', 'lines', 'almost', 'nonexistent']",0,31
+3,"['little', 'music', 'anything', 'speak']",0,8
+4,"['best', 'scene', 'movie', 'gerardo', 'trying', 'find', 'song', 'keeps', 'running', 'head']",1,21
+5,"['rest', 'movie', 'lacks', 'art', 'charm', 'meaning', 'emptiness', 'works', 'guess', 'empty']",0,20
+6,"['wasted', 'two', 'hours']",0,3
+7,"['saw', 'movie', 'today', 'thought', 'good', 'effort', 'good', 'messages', 'kids']",1,15
+8,"['bit', 'predictable']",0,3
+9,"['loved', 'casting', 'jimmy', 'buffet', 'science', 'teacher']",1,10
+10,"['baby', 'owls', 'adorable']",1,6
+11,"['movie', 'showed', 'lot', 'florida', 'best', 'made', 'look', 'appealing']",1,15
+12,"['songs', 'best', 'muppets', 'hilarious']",1,11
+13,['cool'],1,4
+14,"['right', 'case', 'movie', 'delivers', 'everything', 'almost', 'right', 'face']",1,16
+15,"['average', 'acting', 'main', 'person', 'low', 'budget', 'clearly', 'see']",0,20
+16,"['review', 'long', 'overdue', 'since', 'consider', 'tale', 'two', 'sisters', 'single', 'greatest', 'film', 'ever', 'made']",1,21
+17,"['ill', 'put', 'gem', 'movie', 'terms', 'screenplay', 'cinematography', 'acting', 'postproduction', 'editing', 'directing', 'aspect', 'filmmaking']",1,23
+18,"['practically', 'perfect', 'true', 'masterpiece', 'sea', 'faux', 'masterpieces']",1,17
+19,"['structure', 'film', 'easily', 'tightly', 'constructed', 'history', 'cinema']",1,17
+20,"['think', 'film', 'something', 'vitally', 'important', 'occurs', 'every', 'minute']",1,15
+21,"['words', 'content', 'level', 'film', 'enough', 'easily', 'fill', 'dozen', 'films']",1,18
+22,"['anyone', 'right', 'mind', 'ask', 'anything', 'movie']",1,16
+23,"['quite', 'simply', 'highest', 'superlative', 'form', 'cinema', 'imaginable']",1,11
+24,"['yes', 'film', 'require', 'rather', 'significant', 'amount', 'puzzlesolving', 'pieces', 'fit', 'together', 'create', 'beautiful', 'picture']",1,21
+25,"['short', 'film', 'certainly', 'pulls', 'punches']",0,7
+26,"['graphics', 'far', 'best', 'part', 'game']",0,10
+27,"['number', 'one', 'best', 'th', 'game', 'series']",1,11
+28,"['deserves', 'strong', 'love']",1,4
+29,"['insane', 'game']",1,5
+30,"['massive', 'levels', 'massive', 'unlockable', 'characters', 'massive', 'game']",1,12
+31,"['waste', 'money', 'game']",1,6
+32,"['kind', 'money', 'wasted', 'properly']",1,10
+33,"['actually', 'graphics', 'good', 'time']",1,8
+34,"['today', 'graphics', 'crap']",0,5
+35,"['say', 'canada', 'fun', 'game', 'aye']",1,11
+36,"['game', 'rocks']",1,3
+37,"['buy', 'play', 'enjoy', 'love']",1,8
+38,"['pure', 'brilliance']",1,3
+39,"['flick', 'doomed', 'conception']",0,8
+40,"['idea', 'lame', 'take', 'minor', 'character', 'mediocre', 'pg', 'film', 'make', 'complete', 'nonsequel', 'changing', 'tone', 'pgrated', 'family', 'movie']",0,31
+41,"['wasnt', 'least', 'bit', 'interested']",0,6
+42,"['confirm', 'film', 'would', 'unfunny', 'generic', 'also', 'managed', 'give', 'away', 'entire', 'movie', 'im', 'exaggerating', 'every', 'moment', 'every', 'plot', 'point', 'every', 'joke', 'told', 'trailer']",0,41
+43,['funny'],0,5
+44,"['even', 'talented', 'carrell', 'cant', 'save']",0,8
+45,"['costars', 'dont', 'fare', 'much', 'better', 'people', 'like', 'morgan', 'freeman', 'jonah', 'hill', 'ed', 'helms', 'wasted']",0,18
+46,"['story', 'predictable', 'lazy']",0,8
+47,"['real', 'effects', 'work', 'presence', 'animals', 'integration', 'scenes', 'worst', 'obvious', 'bluegreenscreen', 'work', 'ive', 'ever', 'seen']",0,33
+48,"['whatever', 'cost', 'much', 'didnt', 'translate', 'quality', 'thats', 'sure']",0,17
+49,"['film', 'succeeds', 'despite', 'perhaps', 'obviously', 'meagre', 'budget']",1,12
+50,"['im', 'glad', 'film', 'didnt', 'go', 'obvious', 'choice', 'lesser', 'film', 'certainly', 'would']",1,18
+51,"['addition', 'one', 'lovely', 'songs', 'ever', 'written', 'french', 'cancan', 'also', 'boasts', 'one', 'cutest', 'leading', 'ladies', 'ever', 'grace', 'screen']",1,27
+52,"['hard', 'fall', 'headoverheels', 'love', 'girl']",1,11
+53,"['negative', 'insipid', 'enough', 'cause', 'regret', 'another', 'hours', 'life', 'wasted', 'front', 'screen']",0,21
+54,"['long', 'whiny', 'pointless']",0,4
+55,"['recommend', 'waiting', 'future', 'efforts', 'let', 'one', 'go']",0,12
+56,"['excellent', 'cast', 'story', 'line', 'performances']",1,5
+57,"['totally', 'believable']",1,2
+58,"['anne', 'heche', 'utterly', 'convincing']",1,5
+59,"['sam', 'shepards', 'portrayal', 'gung', 'ho', 'marine', 'sobering']",1,10
+60,"['sat', 'riveted', 'tv', 'screen']",1,7
+61,"['give', 'one', 'resounding']",1,13
+62,"['think', 'tom', 'hanks', 'good', 'actor']",1,9
+63,"['enjoyed', 'reading', 'book', 'children', 'little']",1,12
+64,"['disappointed', 'movie']",0,7
+65,"['one', 'character', 'totally', 'annoying', 'voice', 'gives', 'feeling', 'fingernails', 'chalkboard']",0,18
+66,"['totally', 'unnecessary', 'trainroller', 'coaster', 'scene']",0,8
+67,"['absolutely', 'warmth', 'charm', 'scenes', 'characters']",0,12
+68,"['movie', 'totally', 'grates', 'nerves']",0,7
+69,"['performances', 'improved', 'improvisation', 'actors', 'twice', 'much', 'worry', 'whether', 'theyre', 'delivering', 'line', 'well', 'whether', 'line', 'good']",0,34
+70,"['quite', 'honestly', 'often', 'good']",0,8
+71,"['often', 'dialogue', 'doesnt', 'really', 'follow', 'one', 'line', 'another', 'fit', 'surroundings']",0,15
+72,"['crackles', 'unpredictable', 'youthful', 'energy', 'honestly', 'found', 'hard', 'follow', 'concentrate', 'meanders', 'badly']",0,23
+73,"['generally', 'great', 'things']",1,8
+74,"['wouldnt', 'say', 'theyre', 'worth', 'hours', 'time', 'though']",0,11
+75,"['suspense', 'builders', 'good', 'cross', 'line', 'g', 'pg']",1,14
+76,"['especially', 'liked', 'noncliche', 'choices', 'parents', 'movies', 'could', 'predict', 'dialog', 'verbatim', 'writing', 'movie', 'made', 'better', 'selections']",1,27
+77,"['want', 'movie', 'thats', 'gross', 'gives', 'chills', 'great', 'choice']",1,18
+78,"['alexander', 'nevsky', 'great', 'film']",1,6
+79,"['amazing', 'film', 'artist', 'one', 'important', 'whoever', 'lived']",1,13
+80,"['im', 'glad', 'pretentious', 'piece', 'didnt', 'planned', 'dodge', 'stratus', 'big', 'shots', 'gon', 'na', 'help', 'movie', 'makers', 'arent', 'restrained', 'movie', 'business', 'qubec']",0,32
+81,"['first', 'movie', 'ive', 'given', 'years']",1,12
+82,"['ever', 'movie', 'needed', 'wordofmouth', 'promote']",1,14
+83,"['overall', 'film', 'interesting', 'thoughtprovoking']",1,7
+84,"['plus', 'wellpaced', 'suited', 'relatively', 'short', 'run', 'time']",1,11
+85,"['give', 'one', 'look']",1,5
+86,['gave'],1,5
+87,"['wind', 'lion', 'well', 'written', 'superbly', 'acted']",1,11
+88,"['true', 'classic']",1,5
+89,"['actually', 'turned', 'pretty', 'decent', 'far', 'blist', 'horrorsuspense', 'films', 'go']",1,15
+90,"['definitely', 'worth', 'checking']",1,4
+91,"['problem', 'script']",0,5
+92,['horrendous'],0,3
+93,"['nothing', 'believable']",0,8
+94,"['suspense', 'feeling', 'frustration', 'retarded', 'girls']",0,16
+95,"['manna', 'heaven', 'terrific', 'film', 'predictable', 'unpredictable', 'time']",1,17
+96,"['scenes', 'often', 'funny', 'occasionally', 'touching', 'characters', 'evaluate', 'lives', 'going']",1,19
+97,"['cast', 'veteran', 'actors', 'nostalgia', 'trip']",1,12
+98,"['ursula', 'burtons', 'portrayal', 'nun', 'touching', 'funny', 'time', 'making', 'fun', 'nuns', 'church']",1,24
+99,"['looking', 'movie', 'terrific', 'cast', 'good', 'musicincluding', 'shirley', 'jones', 'rendition', 'way', 'look', 'tonight', 'uplifting', 'ending', 'give', 'one', 'try']",1,33
+100,"['dont', 'think', 'disappointed']",1,7
+101,"['frankly', 'cotton', 'club', 'unfaithful', 'kind', 'embarrassing', 'watch', 'lane', 'gere', 'film', 'bad']",0,23
+102,"['acting', 'bad', 'dialogs', 'extremely', 'shallow', 'insincere']",0,11
+103,"['predictable', 'even', 'chick', 'flick']",0,9
+104,"['politically', 'correct']",0,3
+105,['disappointing'],0,2
+106,"['thing', 'really', 'worth', 'watching', 'scenery', 'house', 'beautiful']",1,16
+107,"['love', 'lane', 'ive', 'never', 'seen', 'movie', 'lousy']",0,13
+108,"['hour', 'half', 'wish', 'could', 'bring', 'back']",0,11
+109,"['terms', 'writing', 'fresh', 'bold']",1,11
+110,"['acting', 'helps', 'writing', 'along', 'well', 'maybe', 'idiotsavant', 'sister', 'could', 'played', 'better', 'real', 'joy', 'watch']",1,25
+111,"['directing', 'cinematography', 'arent', 'quite', 'good']",0,9
+112,"['movie', 'boring', 'sometimes', 'found', 'occupied', 'peaking', 'paper', 'instead', 'watching', 'never', 'happened', 'columbo', 'movie']",0,25
+113,"['sometimes', 'embarrassing', 'look', 'away']",0,13
+114,"['directing', 'seems', 'pretentious']",0,5
+115,"['scenes', 'ohsomature', 'neighbourgirl', 'misplace']",0,9
+116,"['generally', 'lines', 'plot', 'weaker', 'average', 'episode']",0,12
+117,"['scene', 'debated', 'whether', 'sack', 'trumpeter', 'falsely', 'accused', 'murder', 'pure', 'horror', 'really', 'stupid']",0,24
+118,"['applause', 'given', 'prelude', 'however']",1,9
+119,"['really', 'liked']",1,4
+120,"['great', 'film', 'great', 'director']",1,7
+121,"['movie', 'edge', 'seat', 'made', 'somewhat', 'afraid', 'go', 'car', 'end', 'night']",1,26
+122,"['music', 'film', 'really', 'nice']",1,9
+123,"['id', 'advise', 'anyone', 'go', 'see']",1,8
+124,['brilliant'],1,1
+125,[],1,1
+126,"['liked', 'movie', 'way', 'much']",1,7
+127,"['problem', 'thought', 'actor', 'playing', 'villain', 'low', 'rent', 'michael', 'ironside']",0,17
+128,"['rocked', 'world', 'certainly', 'must', 'see', 'anyone', 'social', 'physical', 'outlets']",1,18
+129,"['however', 'didnt', 'make', 'fact', 'overall', 'tremendously', 'boring', 'movie']",0,16
+130,"['chemistry', 'ben', 'affleck', 'sandra', 'bullock', 'film', 'couldnt', 'understand', 'would', 'consider', 'even', 'leaving', 'wifetobe', 'chick', 'supposedly', 'knocked']",0,35
+131,"['several', 'moments', 'movie', 'didnt', 'need', 'excruciatingly', 'slow', 'moving']",0,19
+132,"['poor', 'remake', 'best', 'friends', 'wedding']",0,10
+133,"['great', 'disappointment']",0,6
+134,"['believe', 'actors', 'agreed', 'film']",0,11
+135,"['could', 'stand', 'even', 'watch', 'long', 'fear', 'losing', 'iq']",0,16
+136,"['guess', 'nobody', 'network', 'aired', 'dribble', 'watched', 'putting']",0,17
+137,"['imdb', 'ratings', 'go', 'low', 'awful', 'time', 'get', 'negative', 'numbers', 'cases']",0,23
+138,"['saw', 'mirrormask', 'last', 'night', 'unsatisfactory', 'experience']",0,11
+139,"['unfortunately', 'inexperience', 'direction', 'meant', 'scene', 'scene', 'passed', 'little', 'way', 'dramatic', 'tension', 'conflict']",0,20
+140,"['central', 'themes', 'film', 'handled', 'ineptly', 'stereotypically', 'depth', 'imagination']",0,20
+141,"['pretty', 'pictures', 'world', 'make', 'piece', 'work', 'flawed', 'core']",0,21
+142,"['hour', 'half', 'waste', 'time', 'following', 'bunch', 'pretty', 'high', 'schoolers', 'whine', 'cry', 'life']",0,22
+143,"['cant', 'relate', 'hell', 'barely', 'understand']",0,11
+144,"['definitely', 'cult', 'classic', 'well', 'worth', 'viewing', 'sharing', 'others']",1,13
+145,"['movie', 'pure', 'disaster', 'story', 'stupid', 'editing', 'worst', 'seen', 'confuses', 'incredibly']",0,23
+146,"['fish', 'badly', 'made', 'underwater', 'shots', 'repeated', 'thousand', 'times', 'film']",0,19
+147,"['truly', 'truly', 'bad', 'film']",0,5
+148,"['acting', 'terrible', 'writing', 'worse']",0,9
+149,"['possible', 'way', 'movie', 'could', 'redeemed', 'would', 'mstk', 'fodder']",0,14
+150,"['paid', 'much']",0,4
+151,"['also', 'real', 'treat', 'see', 'anthony', 'quinn', 'playing', 'crazy', 'horse']",1,12
+152,['boring'],0,4
+153,"['plot', 'whatsoever']",0,3
+154,['plot'],0,5
+155,['horrible'],0,1
+156,"['worst', 'hour', 'half', 'lifeoh', 'gosh']",0,10
+157,"['walk', 'theatre', 'minutes', 'get', 'relief']",0,17
+158,"['hate', 'movies', 'like']",0,5
+159,"['yeah', 'movie', 'pretty', 'much', 'sucked']",0,6
+160,"['plot', 'storyline']",0,6
+161,"['go', 'see', 'movie', 'bring', 'pillow', 'girlfriendboyfriend', 'keep', 'occupied']",0,19
+162,['awful'],0,1
+163,"['dont', 'think', 'ive', 'ever', 'gone', 'movie', 'disliked', 'much']",0,14
+164,"['good', 'thing', 'tickets', 'cost', 'five', 'dollars', 'would', 'mad', 'id', 'paid', 'see', 'crap']",0,26
+165,"['nobody', 'identifies', 'characters', 'theyre', 'cardboard', 'cutouts', 'stereotypes', 'predictably', 'reversestereotypes']",0,15
+166,"['bad', 'film', 'bad', 'writing', 'good', 'actorsan', 'ugly', 'cartoon', 'crafted', 'paul', 'haggis', 'people', 'cant', 'handle', 'anything', 'bold', 'strokes', 'storytellinga', 'picture', 'painted', 'crayons']",0,33
+167,"['crash', 'depressing', 'little', 'nothing', 'provokes', 'emotion', 'teaches', 'nothing', 'already', 'know', 'racism', 'prejudice', 'bad', 'things']",0,23
+168,"['still', 'like', 'movie', 'empowerment', 'women', 'theres', 'enough', 'movies', 'like', 'one']",1,20
+169,"['brain', 'attempt', 'shutdown', 'part', 'primal', 'impulse', 'selfpreservation']",0,14
+170,"['left', 'shattered', 'experience', 'watching', 'film', 'took', 'good', 'two', 'hours', 'fully', 'recover']",0,21
+171,"['movie', 'joins', 'revenge', 'boogeyman', 'zombiez', 'part', 'hellish', 'trinity', 'horror', 'films']",0,19
+172,"['certainly', 'mean', 'distinction', 'good', 'way']",0,11
+173,"['mean', 'terrible', 'way']",0,7
+174,"['film', 'redeeming', 'features']",0,6
+175,"['everything', 'appalling']",0,3
+176,"['artless', 'camerawork', 'endlessly', 'presents', 'us', 'ugliest', 'setting', 'imaginable', 'ie']",0,11
+177,"['story', 'beyond', 'stupid']",0,5
+178,"['script', 'script']",0,7
+179,"['kids', 'annoying']",0,4
+180,"['lead', 'man', 'charismafree']",0,5
+181,"['utterly', 'without', 'merit', 'level', 'akin', 'torture']",0,11
+182,"['ill', 'even', 'say', 'torture']",0,9
+183,"['maybe', 'would', 'reasonable', 'explanation', 'atrocity']",0,10
+184,"['pleasant', 'voyage', 'selfdiscovery']",0,6
+185,"['highly', 'unrecommended']",0,2
+186,"['premise', 'sound', 'stupid', 'thats']",0,9
+187,"['yes', 'bad']",0,4
+188,"['nothing', 'recommend']",0,5
+189,"['excellent', 'performance', 'ms']",1,5
+190,"['garbo', 'showed', 'right', 'bat', 'talents', 'could', 'carry', 'silent', 'era', 'wanted', 'see', 'silent', 'work', 'netflix', 'doesnt', 'seem', 'stocking']",1,34
+191,"['also', 'great', 'see', 'renowned', 'silent', 'screenwriter', 'frances', 'marion', 'hasnt', 'missed', 'step', 'going', 'silent', 'sound']",1,20
+192,"['movie', 'suffered', 'writing', 'needed', 'suspense']",0,11
+193,"['many', 'close', 'ups']",0,6
+194,"['movie', 'seemed', 'drag', 'heroes', 'didnt', 'really', 'work', 'freedom']",0,18
+195,"['movie', 'definitely', 'average', 'rent']",0,9
+196,"['youll', 'love']",1,3
+197,"['movie', 'bad']",0,4
+198,['bad'],0,2
+199,"['film', 'way', 'long']",0,6
+200,"['definitely', 'one', 'bad', 'ones']",0,8
+201,"['movie', 'received', 'great', 'quality', 'film', 'age']",1,12
+202,"['john', 'wayne', 'incredible', 'job', 'young', 'movie', 'industry']",1,14
+203,"['screen', 'presence', 'shined', 'thought', 'even', 'though', 'senior', 'actors', 'screen']",1,18
+204,"['think', 'must', 'see', 'older', 'john', 'wayne', 'film']",1,12
+205,"['really', 'dont', 'see', 'anyone', 'could', 'enjoy', 'movie']",0,10
+206,"['dont', 'think', 'ive', 'ever', 'seen', 'movie', 'half', 'boring', 'selfindulgent', 'piece', 'junk']",0,17
+207,"['probably', 'would', 'better', 'director', 'hadnt', 'spent', 'movie', 'showcasing', 'art', 'work', 'really', 'isnt', 'noteworthy']",0,25
+208,"['another', 'thing', 'didnt', 'really', 'like', 'character', 'got', 'punched', 'face', 'gallon', 'blood', 'would', 'spew', 'forth', 'soon']",0,24
+209,"['jamie', 'foxx', 'absolutely', 'ray', 'charles']",1,6
+210,"['performance', 'simply', 'genius']",1,5
+211,"['owns', 'film', 'spacek', 'owned', 'coal', 'miners', 'daughter', 'quaid', 'owned', 'great', 'balls', 'fire']",1,18
+212,"['fact', 'hard', 'remember', 'part', 'ray', 'charles', 'acted', 'played', 'man']",1,23
+213,"['ray', 'charles', 'legendary']",1,4
+214,"['ray', 'charles', 'life', 'provided', 'excellent', 'biographical', 'material', 'film', 'goes', 'well', 'beyond', 'another', 'movie', 'musician']",1,21
+215,"['hitchcock', 'great', 'director']",1,5
+216,"['ironically', 'mostly', 'find', 'films', 'total', 'waste', 'time', 'watch']",0,13
+217,"['secondly', 'hitchcock', 'pretty', 'much', 'perfected', 'thriller', 'chase', 'movie']",1,10
+218,"['pandering', 'audience', 'sabotages', 'films']",0,12
+219,"['hence', 'whole', 'story', 'lacks', 'certain', 'energy']",0,8
+220,"['plot', 'simply', 'rumbles', 'like', 'machine', 'desperately', 'depending', 'addition', 'new', 'scenes']",0,16
+221,"['usual', 'hitchcock', 'logic', 'flaws']",0,7
+222,"['mishima', 'extremely', 'uninteresting']",0,4
+223,"['chilly', 'unremarkable', 'movie', 'author', 'livingworking', 'chilly', 'abstruse', 'culture']",0,15
+224,"['flat', 'reenactments', 'dont', 'hold', 'attention', 'emotionally', 'adrift', 'stagy']",0,14
+225,"['rest', 'sits', 'awful', 'soldiers', 'singing', 'songs', 'masculinity', 'pledge', 'hairsplitting', 'purity', 'admiration', 'swords', 'etc']",0,29
+226,"['bore', 'pieces', 'kill', 'momentum', 'movie', 'quicker', 'anyone', 'else']",0,17
+227,"['schrader', 'made', 'resume', 'full', 'lousy', 'amateurish', 'films']",0,10
+228,"['first', 'watched', 'movie', 'loved']",1,12
+229,"['totally', 'fascinated', 'music', 'dancing', 'everything']",1,10
+230,"['however', 'recently', 'watched', 'whole', 'thing', 'dvd', 'completely', 'struck', 'extremely', 'stupid', 'storyline', 'contained', 'holes', 'inconsistencies', 'frankly', 'whole', 'lot', 'crap', 'horrid', 'dancing']",0,44
+231,"['mean', 'realistic', 'world', 'would', 'never', 'gotten', 'ballet', 'repertory', 'whole', 'thing', 'quite', 'pathetic']",0,21
+232,"['character', 'developments', 'also', 'lacked', 'depth']",0,7
+233,"['woa', 'talk', 'awful']",0,4
+234,"['waste', 'time']",0,5
+235,['horrible'],0,5
+236,"['worst', 'sappiest', 'dialogue', 'could', 'go']",0,10
+237,"['really', 'made', 'unwatchable', 'direction']",0,9
+238,"['poor', 'actors']",0,3
+239,"['cant', 'even', 'tell', 'talent', 'pathetic', 'lines', 'speak', 'director', 'gave', 'action']",0,25
+240,"['check', 'directors', 'filmography', 'site', 'see', 'film', 'didnt', 'chance']",0,19
+241,"['would', 'even', 'good', 'made', 'tv', 'flick']",0,12
+242,"['good', 'intentions', 'made', 'film', 'great', 'film', 'might', 'one', 'greatest', 'films', 'ever', 'made']",1,19
+243,"['film', 'great', 'actors', 'master', 'director', 'significant', 'themeat', 'least', 'wouldbe', 'significant', 'theme', 'undertone', 'fifties', 'existential', 'worldweariness', 'aerial', 'scenes', 'ought', 'thrilled', 'senses', 'imagination', 'characters', 'one', 'might', 'deeply', 'care']",1,40
+244,"['regrettably', 'film', 'fails']",0,4
+245,"['movie', 'lacks', 'visual', 'interest', 'drama', 'expression', 'feeling', 'celebration', 'patriotism', 'underlines', 'narrative']",0,19
+246,"['actress', 'worse', 'used', 'june', 'allison', 'movie']",0,12
+247,"['yet', 'enjoy', 'watching']",1,5
+248,"['unfortunately', 'bad', 'movie', 'plain', 'bad']",0,11
+249,"['bad', 'script', 'bad', 'direction', 'horrible', 'acting', 'make', 'one', 'plain', 'bad']",0,12
+250,"['dialogue', 'sucked']",0,3
+251,"['cinematographyif', 'called', 'thatsucked']",0,7
+252,"['soundtrack', 'sucked']",0,3
+253,"['acting', 'sucked']",0,3
+254,"['concert', 'sequences', 'sucked']",0,5
+255,['nice'],1,3
+256,['funny'],1,3
+257,['funny'],1,4
+258,"['overall', 'movie', 'cheap', 'trash']",0,6
+259,"['movie', 'funny', 'considering', 'ridiculousness']",0,11
+260,"['came', 'feeling', 'angry']",0,7
+261,"['spoilers', 'whatever', 'else', 'cant', 'said', 'surface', 'superbly', 'crafted']",1,14
+262,"['cinematography', 'simply', 'stunning', 'say', 'least', 'fx', 'nothing', 'stateoftheart']",1,17
+263,"['conceptually', 'show', 'offers', 'little', 'bit', 'everything', 'everybody', 'parents', 'kids', 'fantasy', 'andor', 'fx', 'fans']",1,20
+264,"['wasnt', 'single', 'sour', 'note', 'struck', 'actingwise', 'either', 'surprisingly', 'solid', 'casting']",1,15
+265,"['things', 'considered', 'job', 'well', 'done']",1,8
+266,"['thanks', 'good', 'movie', 'like', 'done', 'released']",1,10
+267,"['one', 'best', 'mexican', 'movies', 'ever', 'one', 'less', 'understood', 'even', 'mexican', 'matter', 'identified', 'felt']",1,27
+268,"['ranks', 'highly', 'great', 'noircrimedrama', 'incredible', 'performances', 'belmondo', 'lino', 'ventura']",1,14
+269,"['attention', 'given', 'every', 'character', 'complex', 'psychological', 'portrayals', 'detailing', 'loyalty', 'treachery', 'love', 'hope', 'tremendous']",1,18
+270,"['excellent', 'drama', 'excellent', 'thriller', 'excellent', 'film']",1,12
+271,"['best', 'melville']",1,7
+272,"['everything', 'film', 'simply', 'incredible']",1,7
+273,"['truly', 'take', 'journey', 'eyes', 'soul', 'child']",1,13
+274,"['black', 'water', 'thriller', 'manages', 'completely', 'transcend', 'limitations', 'indie', 'flick', 'continually', 'subverting', 'expectations', 'emerge', 'intense', 'experience']",1,26
+275,"['performances', 'real', 'gripping', 'crocdodile', 'extremely', 'well', 'done', 'indeed', 'black', 'water', 'website', 'believed', 'thats', 'used', 'real', 'crocs', 'swamp', 'location', 'fabulous']",1,34
+276,"['thoroughly', 'enjoyed', 'christopher', 'eccleston', 'took', 'control', 'tardis', 'continuation', 'series']",1,18
+277,"['im', 'sure', 'trying', 'film']",0,12
+278,"['turn', 'good', 'day', 'feeling', 'night', 'disturbing', 'memories', 'guess', 'succeeded']",0,20
+279,"['lot', 'beautiful', 'places']",1,7
+280,"['forced', 'like', 'everything', 'movie']",0,8
+281,['lame'],0,2
+282,"['heres', 'movie', 'really', 'pied']",0,8
+283,"['dont', 'even', 'get', 'started', 'jerky', 'camerawork']",0,10
+284,"['saw', 'theater', 'thought', 'going', 'sick']",0,15
+285,"['summary', 'witticisms', 'werent', 'witty']",0,5
+286,"['plot', 'well', 'said', 'id', 'let', 'one', 'go']",0,11
+287,"['acting', 'bad']",0,4
+288,"['really', 'bad']",0,2
+289,"['even', 'billy', 'bob', 'couldnt', 'rise', 'script', 'worse']",0,11
+290,"['camerawork', 'bad']",0,4
+291,['rating'],0,5
+292,"['amazing', 'finale', 'possibly', 'best', 'trilogy', 'time']",1,11
+293,"['kieslowski', 'never', 'ceases', 'amaze']",1,6
+294,"['one', 'favourite', 'directors', 'one', 'talented', 'directors', 'history', 'cinema']",1,19
+295,"['use', 'colours', 'french', 'flag', 'three', 'films', 'nothing', 'short', 'incredible', 'every', 'shot', 'every', 'scene', 'like', 'work', 'art']",1,28
+296,"['three', 'visually', 'appealing', 'movies', 'ive', 'ever', 'seen']",1,10
+297,"['subtle', 'connections', 'three', 'films', 'awesome']",1,10
+298,"['mention', 'huge', 'spoiler', 'loved', 'ending', 'characters', 'three', 'films', 'remaining', 'survivors', 'ferry', 'disaster', 'valentine', 'young', 'judge', 'together', 'old', 'man', 'watching', 'tv', 'solidifying', 'happiness', 'suffering', 'dealt', 'many', 'years']",1,61
+299,"['couldnt', 'think', 'better', 'way', 'end', 'film', 'smile', 'face', 'great', 'way', 'wrap', 'amazing', 'film', 'trilogy']",1,27
+300,"['recommend', 'everyone', 'loves', 'film', 'movies', 'anythinga', 'work', 'art']",1,13
+301,"['movie', 'trilogy']",1,10
+302,"['literally', 'vomited', 'watching', 'film']",0,7
+303,"['think', 'one', 'people', 'found', 'another', 'one', 'roths', 'pearls']",1,16
+304,"['performance', 'awarded', 'stunning']",1,6
+305,"['story', 'told', 'eloquently', 'francis', 'ford', 'coppola', 'years', 'earlier', 'really', 'unfolds', 'gradually', 'leaves', 'room', 'characters', 'develop']",1,25
+306,"['wonderful', 'location', 'lies', 'story', 'contrast']",1,10
+307,"['beautiful', 'directed', 'film', 'nicolas', 'roeg', 'wih', 'sublime', 'cast']",1,14
+308,"['im', 'translating', 'movies', 'living', 'first', 'movie', 'year', 'working', 'experience', 'found', 'offensive', 'intelligence']",0,24
+309,"['someone', 'strives', 'greatness', 'poetry', 'delivers', 'muddled', 'often', 'ridiculous', 'story', 'bunch', 'disparate', 'scenes', 'pretentious', 'dialogue', 'get', 'worst', 'kind', 'movie', 'reviewer', 'accurately', 'defined', 'pretentious', 'crap']",0,42
+310,"['find', 'movie', 'intelligent', 'even', 'masterful', 'say', 'intelligence', 'imagination', 'obviously', 'used', 'try', 'make', 'sense', 'pitiful', 'attempt', 'human', 'nature', 'try', 'make', 'sense', 'things']",0,47
+311,"['one', 'thing', 'tolerate', 'political', 'incorrectness', 'well', 'im', 'artistic', 'freedom', 'suspension', 'disbelief', 'slavic', 'female', 'character', 'much']",0,28
+312,"['fun', 'funny', 'movie']",1,8
+313,"['highly', 'entertaining', 'angles']",1,5
+314,"['features', 'outlandish', 'array', 'memorable', 'psychotic', 'lovable', 'nuts']",1,11
+315,"['enjoyment', 'get', 'see', 'run', 'around', 'play', 'games', 'dangerous']",1,16
+316,"['even', 'sweet', 'moments']",1,6
+317,"['telephone', 'repair', 'man', 'really', 'funny', 'reactions', 'nuts', 'bitchy', 'boss', 'truly', 'genuine']",1,19
+318,"['characters', 'film', 'tremendously', 'well', 'played']",1,10
+319,"['really', 'find', 'funny']",1,7
+320,"['actually', 'smart', 'movie']",1,7
+321,"['brilliant', 'twist', 'ending']",1,6
+322,['love'],1,4
+323,"['ending', 'perfect', 'youll', 'shed', 'tear']",1,10
+324,"['thrilled', 'seeing', 'movie', 'like']",1,10
+325,"['never', 'forget']",1,6
+326,"['cult', 'cult', 'classic']",1,11
+327,"['depth', 'character', 'man', 'underneath']",0,11
+328,"['malta', 'settings', 'dry', 'barren', 'dialogue']",0,12
+329,"['movie', 'terrible']",0,4
+330,"['hockey', 'scenes', 'terrible', 'defensemen', 'playing', 'like', 'theyre', 'years', 'old', 'goalies', 'diving', 'shots', 'feet', 'wide', 'net', 'etc']",0,25
+331,"['havent', 'seen', 'dont', 'waste', 'time']",0,10
+332,"['call', 'movie', 'drama', 'ridiculous']",0,8
+333,"['started', 'watching', 'didnt', 'believe', 'characters']",0,11
+334,"['particular', 'relationship', 'bakery', 'assistant', 'waitress', 'didnt', 'work']",0,18
+335,"['superficial', 'movie', 'gave', 'feeling', 'watching', 'play', 'rather', 'film']",0,21
+336,"['characters', 'stagey', 'storyline', 'lot', 'like', 'stage', 'farce']",0,15
+337,"['time', 'pyromaniac', 'waylaid', 'assistant', 'bored', 'didnt', 'care', 'happened', 'next', 'switched']",0,22
+338,"['glad', 'didnt', 'pay', 'see']",0,7
+339,"['didnt', 'laugh', 'even', 'smile']",0,6
+340,"['wasnt', 'anything', 'one', 'big', 'yawn']",0,10
+341,"['really', 'good', 'show', 'watch']",1,8
+342,"['educational', 'children', 'years', 'old']",1,11
+343,"['barney', 'definitely', 'super', 'de', 'duper']",1,6
+344,"['pretty', 'funny']",1,3
+345,"['babie', 'bop', 'cute']",1,5
+346,"['kids', 'cool']",1,6
+347,"['storm', 'trooper', 'even', 'bad', 'enough', 'make', 'list', 'wonderfully', 'terrible', 'movies']",0,19
+348,['lame'],0,3
+349,"['guy', 'said', 'hes', 'better', 'dialogue', 'potted', 'plants', 'right']",0,15
+350,"['everything', 'movie', 'stupid']",0,6
+351,"['even', 'love', 'bad', 'movies', 'watch', 'movie']",0,11
+352,['shameful'],0,3
+353,"['would', 'give', 'television', 'series', 'plus', 'could']",1,12
+354,"['writers', 'smack', 'think', 'best', 'actors', 'actresses', 'bonus', 'showthese', 'characters', 'real']",1,23
+355,"['must', 'say', 'taped', 'episodes', 'find', 'watching']",1,20
+356,"['know', 'gave']",1,9
+357,"['dont', 'know', 'exactly', 'movie', 'latched', 'endearing', 'movie', 'become', 'special', 'part', 'familys', 'memories']",1,29
+358,"['totally', 'absolutely', 'recommend', 'movie', 'anyone', 'likes', 'good', 'wholesome', 'family', 'movies', 'exactly']",1,22
+359,"['things', 'four', 'kids', 'get', 'absolutely', 'hilarious', 'watch']",1,14
+360,"['one', 'best', 'movies', 'shows', 'strong', 'sibling', 'bond']",1,18
+361,"['much', 'interesting', 'action', 'suspense', 'less', 'unneeded', 'controversy']",1,13
+362,"['everything', 'acting', 'cinematography', 'solid']",1,7
+364,"['damian', 'talented', 'versatile', 'many', 'ways', 'writing', 'portraying', 'different', 'characters', 'screen']",1,18
+365,"['movie', 'cutting', 'edge']",1,8
+366,"['pleased', 'know', 'modern', 'day', 'genius', 'letting', 'passion', 'art', 'drive', 'taking', 'us', 'audience']",1,30
+367,"['new', 'characters', 'werent', 'memorable', 'found', 'forgetting']",0,15
+368,"['felt', 'though', 'going', 'ireland', 'absolutely', 'nothing', 'whatsoever']",0,12
+369,"['didnt', 'make', 'scared', 'horrified', 'make', 'sympathetic', 'towards', 'characters', 'simply', 'annoying']",0,17
+370,"['jerky', 'camera', 'movements', 'also', 'annoying']",0,7
+371,"['plot', 'pretty', 'much', 'every', 'cheap', 'horror']",0,12
+372,"['pathetic', 'attempts', 'give', 'characters', 'depth', 'didnt', 'really', 'work', 'rest', 'plot']",0,23
+373,"['guess', 'supposed', 'clever', 'twist', 'shed', 'light', 'situation', 'stupid']",0,21
+374,"['see', 'probably', 'leave', 'shelf']",0,13
+375,"['elias', 'koteasjack', 'palance', 'play', 'good', 'roles', 'angelina', 'hot', 'gets', 'nakedbilly', 'drago', 'appears', 'cool', 'usual', 'cameo', 'sven', 'ole', 'thorsen', 'helps', 'make', 'enjoyable', 'movie', 'good', 'acting', 'decent', 'budget']",1,42
+376,"['awesome', 'movie', 'bought', 'ebay']",1,13
+377,"['really', 'loved', 'story', 'line', 'poler', 'bear', 'kinda', 'cutebut', 'anyone', 'question', 'fort', 'steele', 'ask', 'away']",1,24
+378,"['totally', 'unfunny', 'movie', 'top', 'pathetic', 'unrealistic', 'throughout', 'whole', 'minutes', 'utter', 'torture', 'probably', 'looked', 'watch', 'times']",0,31
+379,"['lucy', 'bell', 'much', 'higher', 'crap', 'sink', 'low', 'quite', 'depressing']",0,19
+380,"['movie', 'make', 'sick', 'watching', 'slackers', 'make', 'excuses', 'stupid', 'actions', 'minutes']",0,21
+381,"['god', 'never', 'get', 'minutes', 'back']",0,10
+382,"['think', 'wonderful', 'parts', 'literally', 'full', 'wonder', 'excerpts', 'works']",1,16
+383,"['sets', 'especially', 'designed', 'work', 'camera', 'amazingstylized', 'beautiful', 'effective']",1,14
+384,"['could', 'used', 'exemplars', 'set', 'designer']",1,10
+385,"['stories', 'powerful', 'explorations', 'nature', 'man', 'art']",1,13
+386,"['watching', 'film', 'wanted', 'learn', 'works', 'artist']",1,15
+387,"['highly', 'recommend', 'movie', 'anyone', 'interested', 'art', 'poetry', 'theater', 'politics', 'japanese', 'history']",1,16
+388,"['wind', 'lion', 'see', 'wonderful', 'rendering', 'americas', 'imperial', 'age']",1,17
+389,"['makes', 'story', 'different', 'terrific', 'production', 'values', 'faultless', 'photography', 'composition', 'editing', 'terrific', 'casting', 'underappreciated', 'brian', 'keith', 'playing', 'bully', 'teddy', 'vivid', 'history']",1,34
+390,"['though', 'wind', 'lion', 'told', 'largely', 'eyes', 'son', 'every', 'member', 'family', 'identify', 'one', 'characters', 'whether', 'sean', 'connerys', 'noble', 'brigand', 'candace', 'bergens', 'feisty', 'heroine', 'john', 'hustons', 'wily', 'john', 'hay', 'steve', 'kanalys', 'spiffy', 'radiant', 'ruthless', 'cando', 'lieutenant', 'roosevelts', 'big', 'stick']",1,54
+391,"['high', 'adventure', 'best']",1,7
+392,"['think', 'robert', 'ryans', 'best', 'film', 'portrayed', 'someone', 'like', 'father', 'schizophrenic', 'real', 'lifemy', 'father', 'although', 'never', 'murdered', 'anyone', 'affected', 'second', 'world', 'war', 'made', 'worse']",1,43
+393,"['humour', 'get', 'get', 'day', 'apt']",1,16
+394,"['mother', 'brother', 'thiswhen', 'saw', 'robert', 'ryan', 'portraying', 'type', 'man', 'good', 'imitation', 'type', 'individual', 'impressed']",1,32
+395,"['almost', 'songs', 'cover', 'girl', 'oldfashioned', 'tuneful']",0,14
+396,"['annoying', 'thing', 'cover', 'girl', 'way', 'rita', 'hayworth', 'put', 'pedestal']",0,20
+397,"['unfortunately', 'cover', 'girl', 'example', 'hollywood', 'used', 'exploit', 'women', 'financial', 'gain']",0,16
+398,"['nonlinear', 'narration', 'thus', 'many', 'flashbacks', 'every', 'part', 'articulated', 'quite', 'well']",1,12
+399,"['good', 'cinematography', 'also', 'makes', 'monica', 'bellucci', 'look', 'beautiful']",1,12
+400,"['good', 'commentary', 'todays', 'love', 'undoubtedly', 'film', 'worth', 'seeing']",1,12
+401,"['people', 'first', 'timers', 'film', 'making', 'think', 'excellent', 'job']",1,16
+402,"['popular', 'cinema', 'good', 'house', 'good', 'reactions', 'plenty', 'laughs']",1,21
+403,"['feelgood', 'film', 'thats', 'felt', 'came', 'cinema']",1,16
+404,"['northern', 'humour', 'positive', 'community', 'represents']",1,11
+405,"['rather', 'enjoyed']",1,4
+406,['liked'],1,3
+407,"['couldnt', 'take', 'seriously']",0,5
+408,"['really', 'created', 'unique', 'feeling', 'though']",1,7
+409,"['vivian', 'schilling', 'excellent', 'job', 'script']",1,9
+410,"['world', 'better', 'garbage', 'theatres', 'today']",1,12
+411,"['role', 'played', 'well']",1,5
+412,"['screamy', 'masculine', 'right']",1,9
+413,"['camera', 'really', 'likes', 'movie']",1,8
+414,"['would', 'casted', 'role', 'ready', 'script']",1,12
+415,"['european', 'movie', 'nice', 'throwback', 'time', 'student', 'experiences', 'living', 'abroad', 'interacting', 'nationalities', 'although', 'circumstances', 'slightly', 'different']",1,36
+416,"['fan', 'movie', 'sucked', 'really', 'bad']",0,12
+417,"['even', 'worse', 'ticker']",0,4
+418,"['movie', 'bad']",0,5
+419,"['like', 'buildings', 'used', 'couple', 'locations', 'maybe', 'poor', 'hummh']",0,15
+420,['blew'],0,3
+421,"['movie', 'excellentangel', 'beautiful', 'scamp', 'adorablehis', 'little', 'yelps', 'hes', 'scaredand', 'funniest', 'parts', 'whenscamp', 'caught', 'curtain', 'angel', 'scamp', 'singing', 'ive', 'never', 'feeling', 'beforei', 'totally', 'recommend', 'movieits', 'coming', 'special', 'edition', 'june', 'cover', 'scamp', 'garbage', 'angel', 'underneath', 'lid']",1,62
+422,"['cant', 'explain', 'movie', 'romanticcharminghilariousand', 'adorablethe', 'junkyard', 'scenes', 'funnyall', 'junkyard', 'dogs', 'something', 'specialtoo', 'funny', 'laughedkids', 'love', 'itbuy', 'comes', 'outit', 'new', 'features']",1,34
+423,"['chosen', 'tortured', 'disgusting', 'piece', 'blatant', 'american', 'propaganda']",0,15
+424,"['show', 'made', 'americans', 'stupid', 'full', 'hatred', 'clichs', 'admitted', 'elsewhere']",0,21
+425,"['almost', 'everyone', 'involved', 'must', 'return', 'school', 'acting', 'utterly', 'predictable', 'bad', 'script', 'pile', 'garbage', 'round']",0,21
+426,"['wish', 'could', 'enter', 'negative', 'values', 'admins']",0,8
+427,"['sets', 'bad', 'wouldnt', 'look', 'place', 'thunderbirds', 'episode']",0,15
+428,"['use', 'slowmotion', 'needlessly', 'repeats', 'throughout', 'movie', 'well', 'backed', 'bad', 'acting', 'bad', 'kind', 'word', 'continuity', 'scenes', 'thrown', 'reason', 'whatsoever', 'vehicles', 'looked', 'like', 'made', 'corn', 'flakes', 'box', 'directorial', 'style', 'bordered', 'stupidity']",0,56
+429,"['oh', 'yeah', 'storyline', 'pathetic']",0,8
+430,"['hate', 'writing', 'bad', 'reviews', 'films', 'especially', 'really', 'like', 'star', 'film', 'bad', 'dont', 'believe', 'one', 'second', 'anyone', 'could', 'proud']",0,38
+431,"['filmmaker', 'director', 'would', 'hide', 'head', 'sand', 'id', 'spent', 'whatever', 'amount', 'money', 'time', 'movie']",0,31
+432,"['short', 'monumental', 'waste', 'time', 'energy', 'would', 'recommend', 'anyone', 'ever', 'see', 'film']",0,23
+433,"['came', 'free', 'dvd', 'player', 'bought', 'still', 'turned', 'thing', 'halfway', 'embarrassed', 'howell']",0,24
+434,['setting'],0,11
+435,"['interesting', 'premise', 'billy', 'drago', 'always', 'good', 'dangerous', 'nutbag', 'side', 'note', 'id', 'love', 'see', 'drago', 'stephen', 'mchattie', 'lance', 'hendrikson', 'flick', 'together', 'talk', 'raging', 'cheekbones']",1,33
+436,"['soundtrack', 'wasnt', 'terrible', 'either']",1,5
+437,"['actingeven', 'professionals', 'drago', 'debbie', 'rochonwas', 'terrible', 'directing', 'worse', 'perhaps', 'contributory', 'former', 'dialog', 'chimplike', 'camera', 'work', 'barely', 'tolerable']",0,30
+438,"['still', 'sets', 'got', 'big', 'oyvey', 'scale']",1,14
+439,"['yes', 'simplifying', 'things', 'sake', 'brevity', 'really', 'core', 'problems', 'film', 'much', 'going', 'without', 'real', 'fulfilling', 'explanation']",0,36
+440,"['good', 'jobs', 'quite', 'amusing']",1,8
+441,"['convoluted', 'plot', 'didnt', 'convince', 'much', 'film', 'watched', 'weird', 'questioning', 'glance']",0,20
+442,"['let', 'girlfriend', 'talk', 'seeing', 'bad', 'idea', 'hated']",0,16
+443,"['last', 'minutes', 'movie', 'also', 'bad', 'well']",1,12
+444,"['bela', 'lugosi', 'totally', 'extraneous', 'intoning', 'odd', 'lines']",0,8
+445,"['acting', 'decidely', 'wooden', 'though', 'worse', 'period', 'universal', 'b', 'movie']",0,14
+446,"['like', 'armand', 'assante', 'cable', 'companys', 'summary', 'sounded', 'interesting', 'watched', 'twice', 'already', 'probably']",1,21
+447,"['believe', 'screenwriter', 'good', 'job', 'tying', 'loose', 'ends']",1,14
+448,"['score', 'mostly', 'plot']",1,8
+449,"['wont', 'say', 'dont', 'like', 'spoilers', 'dont', 'want', 'one', 'believe', 'film', 'worth', 'time']",1,26
+450,"['wow', 'bad', 'film']",0,5
+451,"['frightening', 'least', 'barely', 'comprehensible']",0,8
+452,"['plot', 'doesnt', 'hang', 'together', 'acting', 'absolutely', 'appalling']",0,13
+453,"['even', 'good', 'camp', 'value']",0,6
+454,"['wasnt', 'expecting', 'oscar', 'material']",0,7
+455,"['youd', 'iq', 'particularly', 'stupid', 'mollusk', 'see', 'one', 'coming']",0,16
+456,"['film', 'use', 'word', 'loosely', 'insult', 'moviegoing', 'public']",0,15
+457,"['someone', 'involved', 'knew', 'string', 'together', 'narrative']",0,12
+458,"['gets', 'simply', 'theres', 'nothing', 'lower']",0,12
+459,"['one', 'watched', 'recently', 'fox', 'movie', 'channel', 'disappointed']",0,20
+460,"['know', 'contract', 'player', 'little', 'control', 'scripts', 'acting', 'bad', 'script']",0,22
+461,"['victor', 'mclaglen', 'even', 'bad', 'brian', 'donlevy', 'almost', 'unrecognizable']",0,11
+462,"['considering', 'relations', 'screen', 'taylor', 'stanwyck', 'surprising', 'little', 'chemistry', 'screen', 'two']",0,24
+463,"['premise', 'film', 'ridiculous', 'president', 'us']",0,15
+464,"['death', 'row', 'scenes', 'entirely', 'unmoving']",0,7
+465,"['thing', 'worse', 'taylors', 'acting', 'stanwycks', 'singing']",0,10
+466,"['whatever', 'producer', 'going', 'missed', 'entirely']",0,9
+467,"['deeply', 'impressed', 'character', 'played']",1,9
+468,"['knew', 'saw', 'film', 'great', 'things', 'come', 'gifted', 'actor']",1,18
+469,"['cheap', 'cheerless', 'heist', 'movie', 'poor', 'characterisation', 'lots', 'underbite', 'style', 'stoic', 'emoting', 'think', 'chow', 'yun', 'fat', 'better', 'tomorrow', 'cheesy', 'clichs', 'thrown', 'abandoned', 'factory', 'ready', 'poorly', 'executed', 'flying', 'judo', 'rolls', 'la', 'john', 'woo']",0,45
+470,"['even', 'squibs', 'look', 'awful']",0,5
+471,"['point', 'proceedings', 'look', 'remotely', 'like', 'america']",0,12
+472,"['plot', 'derivative', 'predictable', 'ending', 'like', 'mercy', 'killing']",0,19
+473,"['awful', 'dialogue', 'hopeless', 'overacting', 'everyone', 'gets', 'shot', 'top', 'real', 'waste', 'space', 'time']",0,20
+474,"['uneasy', 'bad', 'movie', 'scared']",0,15
+475,"['dialogue', 'composed', 'things', 'make', 'little', 'sense']",0,10
+476,"['minutes', 'footage', 'wasted', 'show', 'mediocre', 'elderly', 'actors', 'awkwardly', 'babbling', 'overwrought', 'pseudosatanic', 'gibberish', 'corny', 'enough', 'make', 'teen', 'goth', 'blush', 'almost', 'always', 'olde', 'english', 'sometimes', 'latin', 'may', 'may', 'made', 'words']",0,43
+477,"['directing', 'sloppy', 'best']",0,6
+478,"['hackneyed', 'writing', 'certainly', 'made', 'even', 'worse', 'bad', 'directing']",0,11
+479,"['course', 'acting', 'blah']",0,6
+480,"['acting', 'whole', 'cast', 'could', 'put', 'scale', 'balanced', 'perfectly', 'overacting', 'underacting']",0,19
+481,"['finally', 'get', 'ending', 'wouldve', 'great', 'handled', 'competent', 'people', 'jerry', 'falwell']",0,25
+482,"['loved', 'movie', 'great', 'portrayal', 'family', 'share', 'ups', 'end', 'knew', 'special', 'love']",1,34
+483,"['seen', 'many', 'movies', 'starring', 'jaclyn', 'smith', 'god', 'one', 'best', 'though', 'came', 'years', 'ago']",1,24
+484,"['movie', 'contained', 'allstar', 'cast', 'loved', 'opened', 'eyes', 'see', 'actors', 'havent', 'seen']",1,27
+485,"['movie', 'kind', 'long', 'length', 'enjoyed', 'every', 'minute']",1,15
+486,"['overall', 'rate', 'movie', 'scale']",1,12
+487,"['lifetime', 'air', 'enough', 'anyone', 'knows', 'store', 'sells', 'let', 'know', 'musthave']",1,22
+488,"['particularly', 'remember', 'senses', 'assaulted', 'strident', 'cords', 'music', 'would', 'blare', 'little', 'warning', 'even', 'less', 'meaning']",0,24
+489,"['sort', 'pap', 'screened', 'afternoon', 'punish', 'unemployed', 'jobs']",0,21
+490,"['totally', 'different', 'loads', 'understatement', 'black', 'comedy', 'film', 'get', 'see', 'remember']",1,24
+491,"['movie', 'creates', 'universe', 'fascinating', 'every', 'way']",1,12
+492,"['movie', 'really', 'got']",1,7
+493,['see'],1,2
+494,"['really', 'hope', 'team', 'behind', 'movie', 'makes', 'movies', 'continue', 'kinda', 'weird', 'style']",1,26
+495,"['forgot', 'casting', 'superb', 'trond', 'fausa', 'aurvg', 'perfect', 'role', 'bothersome', 'man', 'doesnt', 'understand']",1,33
+496,"['movie', 'good', 'humorous', 'comment', 'life']",1,12
+497,"['found', 'move', 'beautiful', 'enjoyable', 'uplifting']",1,8
+498,"['initially', 'local', 'sites', 'film', 'filmed', 'buffalo', 'intrigued']",1,15
+499,"['later', 'found', 'lost', 'power', 'film']",1,11
+500,"['entire', 'audience', 'applauded', 'conclusion', 'film']",1,10
+501,"['left', 'theater', 'lilt', 'step', 'joy', 'heart', 'hope', 'human', 'race']",1,20
+502,"['duris', 'wholesome', 'appearance', 'gives', 'fine', 'performance']",1,10
+503,"['rest', 'cast', 'also', 'play', 'well']",1,8
+504,"['cinematography', 'noteworthy', 'including', 'fine', 'views', 'barcelona', 'famed', 'gaudi', 'towers']",1,12
+505,"['ten', 'minutes', 'film', 'started', 'second', 'thoughts']",0,11
+506,"['half', 'way', 'film', 'started', 'dislike']",0,11
+507,"['time', 'film', 'ended', 'disliked', 'despised']",0,14
+508,"['film', 'lacks', 'convincing', 'script']",0,8
+509,"['script', 'looks', 'rough', 'draft', 'written', 'shooting', 'began', 'finished', 'script', 'completed']",0,20
+510,"['things', 'happen', 'characters', 'personalities', 'change', 'plot', 'twists', 'occur', 'real', 'reason', 'script', 'calls']",0,19
+511,"['cast', 'good']",1,4
+512,"['worth', 'checking']",1,6
+513,"['probably', 'irritating', 'show', 'ever', 'seen', 'entire', 'life']",0,15
+514,"['indescribably', 'annoying', 'idiotic', 'show', 'ever', 'seen']",0,13
+515,"['everything', 'bad']",0,6
+516,"['could', 'understand', 'kind', 'idiot', 'would', 'produce', 'mess', 'first', 'place', 'mention', 'several', 'season']",0,21
+517,"['script', 'bad', 'bad', 'contains', 'cheesiness', 'unethical', 'joke', 'normally', 'see', 'rated', 'r', 'nc', 'movie']",0,24
+518,"['casting', 'also', 'horrible', 'cause', 'see', 'really', 'really', 'bad', 'actors', 'period']",0,16
+519,"['final', 'word', 'show', 'real', 'torture']",0,8
+520,"['zillion', 'times', 'away', 'reality']",0,7
+521,"['watching', 'washing', 'machine', 'twirling', 'around', 'wouldnt', 'hurt', 'eyes', 'much', 'show']",0,14
+522,"['rating', 'grade', 'z', 'note', 'show', 'bad', 'even', 'mother', 'cast', 'pull', 'daughter', 'show']",0,23
+523,"['th', 'century', 'foxs', 'road', 'house', 'quite', 'silly', 'noir', 'implausible', 'unmitigated', 'bore', 'movie']",0,22
+524,"['full', 'unconvincing', 'cardboard', 'characters', 'blandly', 'written', 'edward', 'chodorov', 'also', 'produced', 'surprisingly', 'directed', 'jean', 'negulesco', 'one', 'would', 'expect', 'great', 'deal']",0,31
+525,"['widmark', 'character', 'turns', 'unintentionally', 'comical']",0,9
+526,"['losing', 'marbles', 'early', 'proceedings', 'totally', 'implausible', 'unconvincing']",0,14
+527,"['isnt', 'enough', 'mess', 'movie', 'picture', 'also', 'marred', 'constant', 'use', 'studio', 'sets', 'indoor', 'exteriors']",0,29
+528,"['whatever', 'prompted', 'documentary', 'beyond']",0,8
+529,"['serious', 'spoilers', 'movie', 'huge', 'disappointment']",0,9
+530,"['many', 'problems', 'dont', 'know', 'start']",0,11
+531,"['cast', 'great']",1,4
+532,"['steve', 'martin', 'delivers', 'really', 'funny', 'performance', 'middleaged', 'upper', 'class', 'uptight', 'white', 'guy']",1,15
+533,"['add', 'betty', 'white', 'jean', 'smart', 'great', 'cast', 'everyone', 'played', 'parts', 'really', 'well']",1,19
+534,"['movie', 'makes', 'lot', 'serious', 'mistakes']",0,9
+535,"['first', 'enough', 'racial', 'stereotypes', 'racial', 'jokes', 'offend', 'everyone']",0,14
+536,"['movie', 'littered', 'overt', 'racial', 'slurs', 'towards', 'black', 'cast', 'members', 'return', 'whites', 'depicted', 'morons', 'boobs']",0,24
+537,"['putting', 'race', 'card', 'aside', 'lets', 'look', 'major', 'flaw', 'film', 'destroy', 'latifas', 'character']",0,18
+538,"['real', 'plot']",0,5
+539,"['wouldnt', 'see', 'movie', 'free']",0,8
+540,"['steamboat', 'willie', 'amazingly', 'important', 'film', 'cinema', 'history']",1,11
+541,"['second', 'appearance', 'mickey', 'mouse', 'following', 'silent', 'plane', 'crazy', 'earlier', 'year', 'probably', 'famous', 'filmmostly', 'groundbreaking']",1,25
+542,"['dont', 'yet', 'hear', 'mickey', 'speak', 'tons', 'sound', 'effects', 'music', 'throughout', 'filmsomething', 'take', 'granted', 'huge', 'crowd', 'pleaser']",1,32
+543,"['however', 'seeing', 'short', 'years', 'amazed', 'timeless', 'film', 'actually']",1,20
+544,"['adorable', 'seeing', 'mickey', 'playing', 'turkey', 'straw', 'highly', 'imaginative', 'occasionally', 'cruel', 'way']",1,18
+545,"['clever', 'real', 'crowdpleaserthis', 'film', 'still', 'ranks', 'among', 'mickeys', 'best', 'films', 'even', 'wonderful', 'years']",1,17
+546,"['bipolarity', 'ruthless', 'thug', 'one', 'minute', 'ruthless', 'killer', 'next', 'minute', 'luvs', 'diaper', 'commercial', 'completely', 'unconvincing']",0,21
+547,"['im', 'terribly', 'disappointed', 'film', 'would', 'receive', 'many', 'awards', 'accolades', 'especially', 'far', 'deserving', 'works', 'film']",0,25
+548,"['original', 'body', 'soul', 'masterpiece']",1,9
+549,"['john', 'garfield', 'ann', 'revere', 'lilli', 'plmer', 'william', 'conrad', 'canada', 'leeand', 'filmed', 'one', 'greatest', 'cinematographers', 'ever', 'grace', 'screenjames', 'wong', 'howe']",1,24
+550,"['dont', 'think', 'redeeming', 'qualities', 'remake']",0,11
+551,"['may', 'bad', 'film', 'ever', 'made']",0,10
+552,"['badwellits', 'bad']",0,4
+553,"['movie', 'solid', 'example', 'bad', 'plot', 'bad', 'idea', 'way']",0,19
+554,"['shame', 'see', 'good', 'actors', 'like', 'thomerson', 'james', 'make', 'living', 'mess', 'like']",0,19
+555,"['thought', 'bad']",0,5
+556,"['films', 'terrible', 'credit', 'version', 'watchable']",0,15
+557,"['lets', 'start', 'problemsthe', 'acting', 'especially', 'lead', 'professor', 'bad']",0,16
+558,"['script', 'big', 'flawed', 'mess']",0,7
+559,"['best', 'example', 'dumb', 'writing', 'established', 'turn', 'zombiestudents', 'back', 'humans', 'removing', 'necklace', 'containing', 'piece', 'meteorite']",0,31
+560,"['director', 'paul', 'matthews', 'also', 'wrotedirected', 'weak', 'monster', 'movie', 'grim', 'clearly', 'doesnt', 'know', 'pace', 'films']",0,20
+561,"['movie', 'terribly', 'boring', 'places']",0,7
+562,"['lighting', 'awful']",0,4
+563,"['film', 'looks', 'cheap', 'bland']",0,6
+564,"['one', 'disappointing', 'aspects', 'lack', 'notable', 'gore']",0,12
+565,"['convention', 'never', 'worked', 'well', 'past', 'certainly', 'doesnt', 'work']",0,13
+566,"['visual', 'effects', 'awful']",0,5
+567,"['cg', 'opening', 'sequence', 'space', 'looked', 'like', 'could', 'created', 'microsoft', 'slideshow', 'gods', 'sake']",0,19
+568,"['explosion', 'gas', 'tanks', 'end', 'awful']",0,13
+569,"['okay', 'like', 'consider', 'fair', 'critic', 'ill', 'give', 'credit', 'credits', 'duethe', 'creature', 'effects', 'actually', 'pretty', 'cool']",1,22
+570,"['got', 'ta', 'love', 'closeups', 'slimy', 'drooling', 'teeth']",1,8
+571,"['sum', 'film', 'breeders', 'terrible', 'cheaply', 'made', 'horror', 'movie', 'avoided', 'like', 'ebola', 'virus']",0,21
+572,['recommended'],0,2
+573,"['almost', 'unbearable', 'watch', 'screen', 'little', 'charisma', 'terrible', 'comedic', 'timing']",0,18
+574,"['aside', 'terrible', 'lead', 'film', 'loads', 'debits']",0,12
+575,"['understand', 'supposed', 'cheap', 'popcorn', 'comedy', 'doesnt', 'mean', 'completely', 'insult', 'intelligence', 'writing', 'incredibly', 'hackneyed', 'borders', 'offensive']",0,34
+576,"['lewis', 'blacks', 'considerable', 'talent', 'wasted', 'incendiary', 'unrestrained', 'pg', 'rating', 'certainly', 'wont', 'allow']",0,26
+577,"['films', 'sole', 'bright', 'spot', 'jonah', 'hill', 'look', 'almost', 'unrecognizable', 'fans', 'recent', 'superbad', 'due', 'amount', 'weight', 'lost', 'interim']",1,30
+578,"['originality', 'freshness', 'first', 'movie', 'spent', 'remake', 'little', 'else', 'offer']",0,18
+579,"['budget', 'evidently', 'limited']",0,6
+580,"['reflected', 'cast', 'also', 'belowpar', 'script', 'borrowed', 'much', 'earlier', 'classic']",0,21
+581,"['however', 'decent', 'acting', 'action', 'location', 'work', 'balance', 'things']",0,15
+582,"['filmiing', 'less', 'expansive']",0,4
+583,"['failed', 'convey', 'broad', 'sweep', 'landscapes', 'great', 'part', 'original']",0,17
+584,"['generally', 'lacked', 'imagination']",0,5
+586,"['possible', 'movie', 'get', 'worse']",0,12
+587,"['plot', 'keep', 'going', 'first', 'place']",0,13
+588,"['even', 'women', 'finally', 'show', 'sign', 'improvement', 'expected', 'things', 'happen', 'time', 'film', 'might', 'far', 'asleep']",0,31
+589,"['beware', 'trashy', 'cult', 'movie', 'trash', 'period']",0,12
+590,"['cant', 'believe', 'theres', 'even', 'sequel']",0,9
+591,"['precisely', 'giving', 'bad', 'review']",0,12
+592,"['child', 'truly', 'enjoyed', 'show', 'proudly', 'say', 'enjoyed', 'big', 'time', 'even', 'classical', 'wb', 'cartoons']",1,28
+593,"['tiny', 'toons', 'kept', 'vibe', 'delivered', 'one', 'popular', 'funny', 'underrated', 'cartoons', 'ever', 'created']",1,20
+594,"['memories', 'murky', 'say', 'enjoyed', 'every', 'single', 'episode', 'product', 'related', 'show']",1,21
+595,"['easily', 'none', 'cartoon', 'made', 'laugh', 'tender', 'way', 'getting', 'dark', 'sitcoms', 'oriented', 'teenagers']",1,19
+596,"['characters', 'funny', 'peculiarity', 'true', 'lead', 'character']",1,16
+597,"['every', 'single', 'character', 'hilarious', 'deserved', 'called', 'lead']",1,12
+598,"['every', 'element', 'story', 'top', 'excessively', 'phony', 'contrived', 'painful', 'sit']",0,21
+599,"['lines', 'seem', 'written', 'fifteen', 'year', 'old', 'though', 'trying', 'oh', 'hard', 'sound', 'like', 'fifteen', 'year', 'old', 'would', 'really', 'um', 'know', 'well', 'talk']",0,35
+600,"['perabo', 'nice', 'energy', 'level', 'obviously', 'comfortable', 'front', 'camera']",1,16
+601,"['simply', 'excuse', 'something', 'poorly', 'done']",0,10
+602,"['saw', 'movie', 'thought', 'stupid', 'movie']",0,12
+603,"['even', 'stupid', 'thought', 'idea', 'volcano', 'los', 'angeles']",0,21
+604,"['honest', 'unbelievable', 'nonsense', 'foolish']",0,12
+605,"['conclusion', 'bother', 'movie', 'volcano', 'los', 'angeles', 'nothing', 'nonsense']",0,19
+606,"['story', 'line', 'awful']",0,6
+607,['painful'],0,3
+608,"['accents', 'absolutely', 'abysmal']",0,6
+609,"['theres', 'also', 'enough', 'hypocrisy', 'film', 'make', 'vomit']",0,11
+610,"['dont', 'waste', 'time', 'watching', 'rubbish', 'nonresearched', 'film']",0,9
+611,"['believe', 'pitch', 'black', 'done', 'well']",1,8
+612,"['characters', 'interesting', 'want', 'find', 'longer', 'movie', 'goes', 'think', 'people', 'surprised', 'doesnt', 'make']",1,33
+613,"['go', 'watch']",1,3
+614,"['omit', 'watching']",0,3
+615,['funny'],1,2
+616,['rating'],0,7
+617,"['characters', 'interesting', 'really', 'care']",1,10
+618,"['instant', 'classic', 'great', 'soundtrack', 'catchy', 'song', 'ending', 'credits']",1,15
+619,"['dont', 'miss']",1,3
+620,"['masterful', 'piece', 'filmmaking', 'many', 'themes', 'simmering', 'occasionally', 'boiling', 'warts', 'study', 'poets', 'bohemian', 'selfindulgent', 'wartime', 'years', 'span', 'aerial', 'bombardments', 'london', 'outward', 'tranquillity', 'welsh', 'coastal', 'retreat', 'borderlines', 'friendship', 'lust', 'love', 'dedication', 'art', 'experience', 'versus', 'practical', 'concerns', 'jealousy', 'rivalry', 'cowardice', 'egotism', 'versus', 'heroism', 'selfsacrifice']",1,71
+621,"['mature', 'subtle', 'script', 'suggests', 'occasionally', 'brings', 'dramatic', 'focus', 'underlying', 'tensions', 'well', 'served', 'perfect', 'performances', 'apart', 'odd', 'inappropriate', 'smiling', 'keira', 'knightley', 'prone', 'though', 'perhaps', 'direction', 'time', 'characters', 'often', 'mention']",1,47
+622,"['exquisite', 'visual', 'composition', 'moment', 'inventive', 'elegant', 'use', 'closeup', 'camera', 'angle', 'lighting', 'including', 'pointillistic', 'faux', 'home', 'movie', 'footage', 'wonder', 'joy', 'behold']",1,34
+623,"['continuously', 'beautiful', 'look', 'bertolucci', 'relationships', 'convincing', 'narrative', 'engaging', 'masters', 'work']",1,28
+624,"['basic', 'premise', 'wasted', 'since', 'sidelined', 'inexplicable', 'focus', 'documentary', 'crew']",0,17
+625,"['regardless', 'film', 'fails', 'levels']",0,7
+626,"['avoid', 'costs']",0,4
+627,"['saw', 'film', 'christmas', 'great', 'film']",1,13
+628,"['thought', 'errol', 'flynn', 'brilliant', 'custer', 'since', 'become', 'favourite', 'actor']",1,15
+629,"['acting', 'alongside', 'olivia', 'de', 'havilland', 'brilliant', 'ending', 'fantastic']",1,13
+630,"['always', 'known', 'errol', 'flynn', 'brilliant', 'actor', 'dads', 'favourite', 'actor', 'grew', 'watching', 'films', 'child']",1,28
+631,"['wasnt', 'watched', 'film', 'realised', 'great', 'actually']",1,16
+632,"['ill', 'give', 'film']",1,8
+633,"['know', 'jim', 'oconnor', 'energetic', 'nobody', 'could', 'much', 'george', 'well', 'dull']",0,22
+634,"['really', 'didnt', 'seem', 'want', 'hosting', 'voiceovers', 'monotonous', 'didnt', 'get', 'involved', 'guests']",0,19
+635,"['lovely', 'little', 'thriller', 'hitchcock', 'lots', 'nice', 'shenanigans', 'surrounding', 'murdered', 'spy', 'kidnapped', 'child', 'nasty', 'church', 'foreign', 'plot', 'random', 'taxidermists']",1,27
+636,"['jimmy', 'stewart', 'ever', 'great', 'hero', 'hitchcock', 'story', 'rips', 'along', 'cool', 'climax', 'embassy', 'function', 'lacks', 'brooding', 'menace', 'hitchcocks', 'black', 'white', 'lowbudget', 'original']",1,35
+637,"['nevertheless', 'yet', 'another', 'wonderful', 'film', 'great', 'masters', 'stable']",1,10
+638,"['say', 'film', 'excellently', 'produced', 'tops', 'ratings', 'typical', 'sci', 'fi', 'film']",1,20
+639,"['excellently', 'produced', 'one', 'scifis', 'best', 'producers', 'scot', 'vandiver']",1,11
+640,"['entertaining', 'nonetheless']",1,5
+641,"['campy', 'sort', 'film', 'thats', 'joy', 'watch']",1,11
+642,"['theres', 'barely', 'boring', 'moment', 'film', 'plenty', 'humorous', 'parts']",1,15
+643,"['cast', 'always', 'entertaining', 'usual']",1,7
+644,"['overall', 'delight']",1,3
+645,"['movie', 'mindbendingly', 'awful', 'couldnt', 'even', 'created']",0,12
+646,"['film', 'lacks', 'real', 'scares', 'tension', 'medical', 'terminology', 'used', 'throughout', 'bit', 'iffy', 'say', 'least', 'say', 'insulin', 'dependant', 'diabetic']",0,34
+647,"['least', 'said', 'acting', 'better']",0,8
+648,"['movie', 'excellent', 'job', 'revealing', 'complexity', 'task', 'incredible', 'challenges', 'facing', 'south', 'africa']",1,20
+649,"['believe', 'every', 'one', 'see', 'movie', 'think', 'people', 'outside', 'south', 'africa', 'understand', 'past', 'attempted', 'truth', 'reconciliation', 'process']",1,31
+650,"['nothing', 'short', 'magnificent', 'photographycinematography', 'film']",1,8
+651,"['acting', 'fantastic', 'stories', 'seamlessly', 'woven', 'together', 'dogs', 'splendid', 'must', 'rent', 'view', 'see']",1,21
+652,"['dont', 'afraid', 'subtitles', 'worth', 'little', 'aversion', 'therapy']",1,12
+653,"['excellent', 'performance']",1,2
+654,"['still', 'good', 'actors', 'around']",1,6
+655,"['also', 'great', 'directing', 'photography']",1,5
+656,"['true', 'shakespear', 'must', 'shakespear', 'fans']",1,11
+657,"['macbeth', 'jason', 'connery', 'moved', 'tears', 'final', 'monolog', 'brief', 'candle', 'outhe', 'gave', 'sphere', 'moral', 'decay', 'dark', 'forces', 'human', 'face', 'makes', 'interesting']",1,33
+658,"['helen', 'baxendale', 'credible', 'lady', 'macbeth', 'cheerfull', 'times', 'sometimes', 'looks', 'like', 'naughty', 'girl', 'deadly', 'taste', 'blood', 'evil']",1,33
+659,"['love', 'death', 'decay', 'shakespears', 'lyrics', 'one']",1,13
+660,"['witty', 'delightful', 'adaptation', 'dr', 'seuss', 'book', 'brilliantly', 'animated', 'upas', 'finest', 'thoroughly', 'deserving', 'academy', 'award']",1,24
+661,"['special', 'mention', 'made', 'superb', 'music', 'score', 'sound', 'effects', 'integral', 'element', 'helping', 'make', 'memorable', 'enjoyable', 'cartoon']",1,29
+662,"['however', 'paul', 'schrader', 'indeed', 'made', 'film', 'mishima', 'superb', 'complex']",1,16
+663,"['also', 'notable', 'john', 'baileys', 'fine', 'crisp', 'beautifully', 'colored', 'cinematography', 'great', 'production', 'design', 'costumes', 'eiko', 'ishioka', 'went', 'memorable', 'costumes', 'coppolas', 'dracula', 'received', 'well', 'deserved', 'oscar']",1,39
+664,"['even', 'allowing', 'poor', 'production', 'values', 'time', 'format', 'kind', 'miniseries', 'baaaaaad']",0,20
+665,"['unless', 'youre', 'visually', 'collect', 'extant', 'films', 'austens', 'work', 'skip', 'one']",0,18
+666,"['watch', 'however', 'small', 'consolations', 'actresses', 'playing', 'annes', 'sisters', 'wonderful', 'job', 'roles']",1,23
+667,['good'],0,4
+668,"['speaking', 'music', 'unbearably', 'predictably', 'kitchy']",0,10
+669,"['film', 'dropped', 'ball']",0,7
+670,"['stunning', 'movie']",1,5
+671,"['raw', 'sublimely', 'moving']",1,4
+672,"['felt', 'like', 'gripping', 'intelligent', 'stage', 'play', 'without', 'overly', 'theatrical', 'feeling', 'one', 'actually', 'gets', 'watching', 'people', 'stage', 'plays', 'everyones', 'terror', 'white', 'lie', 'escalating', 'monstrous', 'consequences']",1,37
+673,"['main', 'players', 'mesmerising']",1,7
+674,"['tom', 'wilkinson', 'broke', 'heart', 'end', 'everyone', 'elses', 'judging', 'amount', 'fumbling', 'hankies', 'hands', 'going', 'faces', 'among', 'males', 'females', 'alike']",1,30
+675,"['julian', 'fellowes', 'triumphed']",1,5
+676,"['hes', 'national', 'treasure']",1,4
+677,"['go', 'see']",1,4
+678,"['excellent', 'film']",1,5
+679,"['aerial', 'scenes', 'welldone']",1,5
+680,"['also', 'right', 'balance', 'war', 'love']",1,10
+681,"['film', 'gives', 'meaning', 'phrase', 'never', 'history', 'human', 'conflict', 'much', 'owed', 'many']",1,25
+682,"['kris', 'kristoffersen', 'good', 'movie', 'really', 'makes', 'difference']",1,12
+683,"['good', 'film', 'great', 'director']",1,7
+684,"['definitely', 'one', 'better', 'documentaries', 'seen', 'looking', 'family', 'relationships', 'marriage']",1,17
+685,"['many', 'continuity', 'errors', 'one', 'user', 'commented', 'different', 'cars', 'garage', 'joes', 'glassesthe', 'one', 'got', 'fact', 'joes', 'facial', 'hair', 'configuration', 'seemed', 'change', 'scene', 'scene']",0,38
+686,"['great', 'movie']",1,6
+687,['stars'],1,5
+688,"['cant', 'see', 'movie', 'inspiration', 'anyone', 'come', 'overcome', 'fear', 'rejection']",0,20
+689,"['bad', 'actually', 'worth', 'seeing', 'reason']",0,11
+690,"['punishment', 'park', 'brilliant', 'piece', 'cinema']",1,8
+691,"['shot', 'southern', 'california', 'desert', 'using', 'patent', 'faux', 'documentary', 'style', 'watkins', 'creates', 'film', 'like']",1,19
+692,"['one', 'peter', 'watkins', 'accessible', 'films']",1,9
+693,"['advise', 'look']",1,8
+694,"['wont', 'regret']",1,4
+695,"['highly', 'recommended']",1,3
+696,"['well', 'keep', 'thinking', 'bad']",0,10
+697,"['mediocre', 'miserable', 'hollow', 'laughable', 'predictable', 'piece', 'garbage']",0,11
+698,"['case', 'bad', 'laughable']",0,9
+699,"['bad', 'performance', 'plays', 'angela', 'bennett', 'computer', 'expert', 'home', 'time']",0,17
+700,"['film', 'nothing', 'pretext', 'show', 'ridiculous', 'action', 'scenes']",0,14
+701,['awful'],0,4
+702,"['still', 'bad', 'actress', 'repeating', 'robotic', 'face', 'moves', 'pictures']",0,17
+703,"['results', 'well', 'shame']",0,6
+704,"['delete', 'film', 'mind']",0,6
+705,"['one', 'worst', 'shows', 'time']",0,8
+706,"['show', 'would', 'begin', 'smart', 'ass', 'ed', 'comments', 'would', 'totally', 'wall', 'uncalled']",0,22
+707,"['fat', 'computer', 'geek', 'unbelievable', 'bible', 'thumper', 'badass', 'girl', 'actors']",0,16
+708,"['never', 'heard', 'except', 'cole', 'totally', 'unbelievable', 'part']",0,15
+709,"['every', 'time', 'opened', 'mouth', 'expect', 'hear', 'see', 'kids', 'pulling', 'plug', 'mercy', 'killing', 'horrible', 'show']",0,24
+710,"['stories', 'unbelievable', 'actors']",0,8
+711,"['lame', 'would', 'best', 'way', 'describe']",0,9
+712,"['stanwyck', 'morgan', 'perfectly', 'cast', 'many', 'ways', 'modern', 'equivalent', 'dickens', 'christmas', 'carol', 'sensibility']",1,22
+713,"['success', 'film', 'depends', 'casting', 'sydney', 'greenstreet', 'alexander', 'yardley', 'character']",1,17
+714,"['attractive', 'set', 'used', 'throughout', 'film', 'eyepleasing', 'gem']",1,13
+715,"['im', 'big', 'fan', 'rpg', 'games', 'movie', 'disgrace', 'selfrespecting', 'rpger']",0,19
+716,"['lines', 'cuts', 'audio', 'everything', 'wrong']",0,9
+717,"['find', 'better', 'movies', 'youtube']",0,7
+718,"['top', 'line', 'dont', 'waste', 'time', 'money', 'one', 'bad', 'comes']",0,17
+719,"['lassie', 'movie', 'put', 'sleep', 'forever']",0,11
+720,"['thats', 'id', 'describe', 'painfully', 'dreary', 'timewaster', 'film']",0,11
+721,"['mediocre', 'every', 'aspect', 'becomes', 'dull', 'uninteresting', 'mess', 'one', 'forgettable', 'movies', 'ive', 'seen']",0,23
+722,"['isnt', 'even', 'achievement', 'sobaditsgood', 'sobaditsmemorable', 'movie']",0,11
+723,"['empty', 'hollow', 'shell', 'movie']",0,8
+724,"['seriously', 'worth', 'wasting', 'kids', 'time']",0,11
+725,"['avoid', 'avoid', 'avoid']",0,3
+726,"['drive', 'barking', 'mad']",0,6
+727,"['transfers', 'good']",1,5
+728,"['nice', 'relaxing', 'late', 'night', 'viewing']",1,7
+729,"['movie', 'full', 'wonderful', 'dancing', 'hence', 'title']",1,10
+730,"['great', 'music', 'terrific', 'scenery']",1,7
+731,"['handles', 'tough', 'issues', 'dignity', 'grace', 'course', 'shocking', 'spoiler']",1,16
+732,"['happy', 'wonderful', 'feel', 'good', 'ending']",1,7
+733,"['point', 'journey', 'journey', 'touches', 'every', 'member', 'family']",1,14
+734,"['one', 'movies', 'need', 'see', 'whenever', 'comes', 'tvnever', 'mind', 'fact', 'already', 'memorized']",1,23
+735,"['nothing', 'new']",0,3
+736,"['done', 'second', 'movie']",0,7
+737,"['movie', 'almost', 'action', 'scenes', 'little', 'comedy']",0,13
+738,"['plot', 'holes', 'pair', 'fishnet', 'stockings', 'direction', 'editing', 'astonishingly', 'ham', 'fisted']",0,20
+739,"['earth', 'irons', 'film']",0,9
+740,"['saw', 'film', 'recommend']",1,9
+741,"['good', 'plot', 'holds', 'complete', 'attention', 'acting', 'superb', 'tom', 'wilkinson', 'fantastic', 'emily', 'watson', 'also', 'good']",1,26
+742,"['good', 'film', 'indeed', 'great', 'unconditional', 'love']",1,10
+743,"['tom', 'wilkinsons', 'character', 'man', 'prepared', 'ordeal', 'begin', 'takes', 'matter', 'hand', 'story', 'progresses', 'great', 'actor', 'gives', 'performance', 'makes', 'feel', 'characters', 'anguish', 'suffering']",1,45
+744,"['emily', 'watsons', 'character', 'strong', 'give', 'quick', 'glance', 'understand', 'everything']",1,19
+745,"['despite', 'pans', 'reviewers', 'liked', 'movie']",1,9
+746,"['fact', 'liked', 'better', 'interview', 'vampire', 'liked', 'lestat', 'stuart', 'townsend', 'better', 'cruises', 'attempt']",1,22
+747,"['aailiyah', 'pretty', 'good', 'akasha', 'places', 'compelling', 'first', 'entrance', 'mini', 'dance', 'scene']",1,16
+748,"['im', 'big', 'fan', 'series', 'mostly', 'due', 'anne', 'rices', 'style', 'sensitivities', 'treatments']",1,16
+749,"['guess', 'liked', 'details', 'dysfunctionhe', 'believable']",1,11
+750,"['football', 'scenes', 'end', 'perplexing']",0,8
+751,"['thought', 'acting', 'skilled']",1,7
+752,"['meredith', 'better', 'right']",1,7
+753,"['charming', 'film', 'wonderful', 'sentiment', 'heart']",1,9
+754,"['rare', 'filmmaker', 'takes', 'time', 'tell', 'worthy', 'moral', 'tale', 'care', 'love', 'doesnt', 'fall', 'trap', 'overly', 'syrupy', 'indulgent']",1,32
+755,"['nine', 'ten', 'truly', 'lovely', 'film']",1,9
+756,"['early', 'film', 'future', 'goremeister', 'lucio', 'fulci', 'good', 'addition', 'giallo', 'subgenre']",1,17
+757,"['one', 'best', 'italian', 'thrillers', 'early']",1,12
+758,"['standout', 'scene']",1,3
+759,"['scene', 'strong', 'unpleasant']",0,7
+760,"['technically', 'film', 'well', 'made', 'impressive', 'camerawork', 'solid', 'acting', 'effective', 'music', 'riz', 'ortolani', 'particularly', 'good', 'recurring', 'unaccompanied', 'female', 'vocal', 'sounds', 'like', 'coming', 'distant', 'hill']",1,35
+761,"['still', 'wild', 'stuff', 'though', 'highly', 'recommended', 'fans', 'giallo', 'cinema']",1,14
+762,"['movie', 'interesting', 'beginning', 'end']",1,10
+763,"['liked', 'way', 'dustin', 'hoffmans', 'character', 'ready', 'everything', 'stay', 'son']",1,19
+764,"['movie', 'also', 'revealing']",1,5
+765,"['personally', 'think', 'shows', 'people', 'learn', 'find', 'compromise', 'self', 'without', 'involving', 'people', 'issue']",1,21
+766,['boring'],0,4
+767,"['tired', 'clichs', 'lazy', 'writing', 'come', 'thick', 'fast']",0,19
+768,"['ps', 'scene', 'movie', 'cool', 'central', 'character', 'finds', 'room', 'blown']",1,20
+769,"['fresh', 'subtle', 'rather', 'sublime', 'effect']",1,8
+770,"['italian', 'reviewer', 'called', 'small', 'great', 'film', 'thats', 'right']",1,12
+771,"['actors', 'give', 'wonderful', 'performance', 'especially', 'jennifer', 'rubin', 'jamie', 'harris', 'changes', 'nervous', 'starlet', 'beginning', 'strange', 'events', 'part', 'cool', 'star']",1,34
+772,"['learn', 'lot', 'real', 'inside', 'emotions', 'people', 'movie', 'lot', 'movie', 'business']",1,22
+773,"['movie', 'movie', 'situations', 'beginning', 'game', 'played', 'acting', 'coach', 'fascinating']",1,23
+774,"['also', 'music', 'mark', 'snow', 'possibly', 'best', 'score', 'ive', 'ever', 'heard']",1,14
+775,"['wont', 'forget', 'movie']",1,5
+776,"['film', 'made']",0,5
+777,"['film', 'ultracheap', 'look']",0,8
+778,"['result', 'film', 'dont', 'look', 'right']",0,10
+779,"['none', 'engaging', 'exciting']",0,7
+780,"['plot', 'nonsense', 'doesnt', 'interest', 'slightest', 'way', 'uniqueness']",0,17
+781,"['foreigner', 'worth', 'one', 'second', 'time']",0,10
+782,"['saw', 'child', 'tv', 'back', 'stranger', 'loved']",1,20
+783,"['duet', 'astronaut', 'doctor', 'beginning', 'movie', 'perfect', 'exchange', 'one', 'considers', 'movie', 'made', 'well', 'cold', 'war', 'astronauts', 'biggest', 'fear', 'crashed', 'ussr']",1,45
+784,"['movie', 'awesome']",1,5
+785,"['loved', 'really', 'scary']",1,7
+786,"['love', 'scream', 'movies', 'horror', 'movies', 'one', 'ranks', 'way']",1,16
+787,"['want', 'real', 'scare', 'rent', 'one']",1,9
+789,"['extraordinary', 'film']",1,5
+790,"['courtroom', 'drama', 'compelling', 'indictment', 'american', 'justice', 'system', 'frightening']",1,16
+791,"['film', 'highlights', 'fundamental', 'flaws', 'legal', 'process', 'discovering', 'guilt', 'innocence', 'rather', 'presents', 'better', 'court']",1,27
+792,"['film', 'well', 'paced', 'understated', 'one', 'best', 'courtroom', 'documentaries', 'ive', 'seen']",1,15
+793,"['mostly', 'routine', 'factbased', 'tv', 'drama', 'gets', 'boost', 'fine', 'performance', 'cole']",1,15
+794,"['predictable', 'bad', 'watch']",1,6
+795,"['clear', 'range', 'ability', 'pull', 'part']",1,15
+796,"['carries', 'movie', 'well']",1,5
+797,"['constantine', 'gives', 'everything', 'right', 'intensity', 'seems', 'good', 'understanding', 'underlying', 'psychological', 'motivations']",1,18
+798,"['wonderful', 'inspiring', 'watch', 'hope', 'gets', 'released', 'video', 'dvd']",1,20
+799,"['piece', 'trash', 'ever', 'released', 'beyond', 'acting', 'story', 'characters', 'supposedly', 'special', 'effects', 'etcits', 'wrong']",0,24
+800,"['fact', 'stinker', 'smells', 'like', 'directtovideo', 'release']",0,9
+801,"['avoid', 'costs']",0,4
+802,"['star', 'trek', 'v', 'final', 'frontier', 'worst', 'series']",0,12
+803,"['acting', 'involved', 'includes', 'like', 'shatner', 'nimoy', 'bad', 'washed', 'making', 'seem', 'old', 'look', 'real', 'life', 'special', 'effects', 'tacky', 'like', 'spock', 'rescue', 'kirk', 'jet', 'pack', 'falls', 'mountain']",0,53
+804,"['attempts', 'humor', 'pitiful', 'story', 'awful', 'dosent', 'bear', 'thinking', 'basically', 'involves', 'vulcan', 'stealing', 'enterprise', 'find', 'god', 'seriously', 'didnt', 'care', 'film', 'oh', 'mention', 'uhura', 'belly', 'dance', 'distract', 'male', 'guards']",0,51
+805,"['place', 'good', 'film', 'garbage']",0,11
+806,"['worst', 'one', 'series']",0,6
+807,"['editing', 'editing', 'film', 'phenomenal', 'opinion']",1,11
+808,"['song', 'could', 'explain', 'emotions', 'subjects', 'better', 'jay', 'adams', 'unfortunate', 'life', 'subject', 'talk', 'song', 'old', 'man', 'neil', 'young', 'played', 'evokes', 'many', 'emotions']",1,36
+809,"['cinematography', 'film', 'shot', 'interesting', 'way']",1,9
+810,"['course', 'footage', 'grainy', 'enhanced', 'film']",1,15
+811,"['film', 'offers', 'many', 'delights', 'surprises']",1,7
+812,"['achille', 'philippa', 'beautifully', 'sing', 'duet', 'giovanni', 'perfectly', 'describes', 'situation', 'movie', 'appreciate', 'subtle', 'layers', 'excellent', 'film']",1,28
+813,"['story', 'unfolds', 'th', 'century', 'jutland', 'use', 'period', 'music', 'played', 'period', 'instruments', 'one', 'fine', 'touch']",1,23
+814,"['share', 'general', 'loewenhielms', 'exquisite', 'joy', 'partaking', 'cailles', 'en', 'sarcophage', 'even', 'though', 'watching', 'movie', 'wish', 'small', 'sample', 'savor']",1,34
+815,"['understated', 'film', 'leaves', 'lasting', 'impression']",1,8
+816,"['warmth', 'generates', 'contrast', 'austere', 'backdrop']",1,11
+817,"['leave', 'theater', 'wanting', 'go', 'dance', 'stars']",1,14
+818,"['acting', 'youd', 'expect', 'cast', 'top', 'notch']",1,11
+819,"['characters', 'fleshed', 'surprisingly', 'well', 'particularly', 'grimes', 'blake', 'actors', 'deliver', 'sharply', 'scripted', 'lines', 'right', 'amount', 'deadpan', 'tongue', 'cheek', 'make', 'dialogue', 'hilarious', 'realistic']",1,38
+820,"['angus', 'scrimm', 'also', 'turns', 'good', 'performance', 'somewhat', 'brief', 'memorable', 'role', 'gently', 'menacing', 'violinplaying', 'anatomist', 'doctor', 'quinn']",1,23
+821,"['conclusion', 'loved']",1,5
+822,"['long', 'time', 'since', 'entertained', 'movie']",1,12
+823,"['struggle', 'find', 'anything', 'bad', 'say']",1,10
+824,"['mark', 'words', 'one', 'cult', 'films', 'like', 'evil', 'dead', 'phantasm', 'people', 'still', 'discovering', 'falling', 'love', 'years', 'line']",1,34
+825,"['pretty', 'surprising', 'wonderful', 'film', 'made', 'hollywood', 'generally', 'collective', 'heads', 'sand', 'concerning', 'black', 'white', 'issues', 'time']",1,29
+826,"['film', 'deserves', 'strong', 'kudos', 'taking', 'stand', 'exceptional', 'acting', 'mostly', 'lesserknown', 'cast', 'superintelligent', 'script', 'doesnt', 'insult', 'audience', 'take', 'easy', 'way', 'comes', 'white', 'racism']",1,40
+827,"['plus', 'movies', 'rather', 'modest', 'budget', 'fast', 'running', 'time', 'amazing', 'job']",1,16
+828,"['juano', 'hernandez', 'exceptional', 'actor', 'played', 'supporting', 'roles', 'many', 'films', 'era', 'proud', 'black', 'man', 'accused', 'murdering', 'white', 'man', 'south']",1,31
+829,"['trumbull', 'love', 'lucy']",1,5
+830,"['see', 'kids', 'chanceit', 'open', 'amazing', 'dialog', 'far', 'race', 'relations', 'come', 'last', 'years']",1,28
+831,"['see', 'films']",1,6
+832,"['year', 'however', 'reminded', 'us', 'huston', 'still', 'top', 'game', 'evinced', 'faithful', 'adaptation', 'james', 'joyces', 'acclaimed', 'novella', 'dead']",1,31
+833,"['feelings', 'thoughtsgabriels', 'discomfort', 'danceall', 'intangibles', 'leap', 'life', 'come', 'within', 'viewers', 'grasp', 'hustons', 'portrayal']",1,20
+834,"['disappointed', 'wondered', 'could', 'oscar', 'shortlist']",0,12
+835,['slow'],0,3
+836,"['lot', 'holes', 'plot', 'theres', 'nothing', 'became', 'emperor', 'nothing', 'spend', 'years', 'childhood', 'mature', 'age']",0,27
+837,"['dont', 'waste', 'time']",0,5
+838,"['end', 'days', 'one', 'worst', 'bigbudget', 'action', 'movies', 'ive', 'ever', 'seen']",0,14
+839,"['surely', 'doesnt', 'know', 'make', 'coherent', 'action', 'movie', 'screenwriter', 'air', 'force', 'one', 'obliged', 'write', 'script', 'big', 'sum', 'money']",0,33
+840,"['one', 'worst', 'films', 'ever', 'seen']",0,11
+841,"['im', 'still', 'trying', 'get', 'bad']",0,10
+842,"['movie', 'possibly', 'one', 'creative', 'works', 'horror', 'ever']",1,13
+843,"['everything', 'could', 'want', 'suspense', 'drama', 'comedy', 'confusing', 'subplots', 'native', 'americans', 'brain', 'eating', 'youre', 'looking', 'beall', 'endall', 'brainsucking', 'movies', 'look']",1,28
+844,"['great', 'sound', 'effects', 'impressive', 'special', 'effects', 'cant', 'recommend', 'movie', 'enough']",1,15
+845,"['call', 'nut', 'think', 'one', 'best', 'movies', 'ever']",1,15
+846,"['great', 'character', 'actors', 'telly', 'savalas', 'peter', 'boyle']",1,8
+847,"['hour', 'minutes', 'sheer', 'tedium', 'melodrama', 'horrible', 'acting', 'mess', 'script', 'sinking', 'feeling', 'good', 'lord', 'thinking']",0,27
+848,"['lots', 'holes', 'script']",0,6
+849,"['like', 'bad', 'two', 'hour', 'tv', 'movie']",0,8
+850,"['imagine', 'every', 'single', 'one', 'decisions', 'made', 'wrong']",0,12
+851,"['dialogue', 'atrocious']",0,4
+852,"['acting', 'beyond', 'abysmal']",0,5
+853,"['everything', 'stinks']",0,2
+854,"['trouble', 'writing', 'directing', 'make', 'impossible', 'establish', 'things', 'make', 'movie', 'watchable', 'like', 'character', 'story', 'theme']",0,25
+855,"['worse', 'theres', 'incredibly', 'weak', 'subplot', 'thrown', 'follows', 'little', 'band', 'latterday', 'mansonites', 'go', 'reporter', 'whos', 'working', 'story', 'anniversary', 'killings']",0,33
+856,"['dumb', 'pointless', 'complete', 'waste', 'time']",0,10
+857,"['short', 'dont', 'bother', 'movie']",0,7
+858,"['wont', 'spoil', 'ending', 'pretty', 'amazing']",1,10
+859,"['best', 'scene', 'movie', 'end', 'wont', 'spoil']",1,15
+860,"['ever', 'indication', 'writer', 'directors', 'ability', 'meld', 'two', 'highly', 'volatile', 'temperaments', 'seamless', 'union', 'creativity']",1,29
+861,"['result', 'powerhouse', 'achievement', 'made', 'timely', 'perhaps', 'cultures', 'disturbing', 'fascination', 'celebrity', 'distorted', 'interpretations', 'fame']",1,25
+862,"['film', 'easily', 'forgotten']",1,5
+863,"['kevin', 'spacey', 'excellent', 'verbal', 'tsunami', 'buddy', 'ackerman', 'totally', 'believable', 'great', 'actor']",1,21
+864,"['scripting', 'subtle', 'comedy', 'unmatched', 'movie', 'recent', 'years']",1,14
+865,"['characters', 'interesting', 'even', 'bit', 'predictable']",1,9
+866,"['highly', 'recommended', 'ages', 'although', 'younger', 'set', 'probably', 'appreciate', 'subtle', 'references', 'certainly', 'appreciate', 'one', 'galley', 'scene', 'particular']",1,28
+867,"['great', 'movie']",1,2
+868,"['also', 'story', 'acting', 'weak']",0,7
+869,"['around', 'pm', 'bought', 'around', 'pm', 'started', 'watch', 'around', 'pm', 'fast', 'forwarded', 'remaining', 'film', 'see', 'anything', 'left', 'watchable', 'human', 'brain', 'wasnt']",0,41
+870,"['either', 'way', 'sucks']",0,4
+871,"['script', 'horrendously', 'stupid']",0,5
+872,"['story', 'starts', 'fast', 'absolutely', 'suspense', 'buildup', 'slightest']",0,14
+873,"['everything', 'captain', 'howdy', 'says', 'either', 'laughable', 'plain', 'stupid']",0,11
+874,"['hell', 'kind', 'crap']",0,8
+875,"['theres', 'plot', 'holes']",0,5
+876,"['could', 'drive', 'semi', 'truck', 'holes']",0,9
+877,"['linda', 'cardellini', 'thing', 'good', 'film']",1,10
+878,"['shes', 'poised', 'amazing']",1,4
+879,"['dee', 'snider', 'plain', 'sucks']",0,5
+880,"['cant', 'act', 'one', 'least', 'scary', 'villains', 'ever', 'seen', 'cant', 'write', 'write', 'damn', 'movie', 'sleep']",0,25
+881,"['bored', 'throughout', 'whole', 'damn', 'thing']",0,8
+882,"['acting', 'sucks', 'music', 'sucks', 'script', 'sucks', 'pacing', 'sucks', 'special', 'fx', 'suck', 'directing', 'sucks', 'basically', 'movie', 'sucks']",0,23
+883,"['film', 'tries', 'serious', 'sophisticated', 'thrillerhorror', 'flick', 'fails', 'miserably']",0,15
+884,"['probably', 'one', 'least', 'effective', 'utterly', 'unoriginal', 'films', 'ever', 'seen', 'entire', 'life']",0,20
+885,"['piece', 'cinematic', 'garbage', 'captured', 'celluloid']",0,8
+886,"['avoid', 'costs']",0,6
+887,"['rate', 'film', 'stinks', 'funny', 'fulci', 'stayed', 'giallo', 'supernatural', 'zombie', 'movies']",0,20
+888,"['avoid', 'film', 'costs']",0,6
+889,"['dont', 'know', 'happened', 'season', 'five', 'mess']",0,11
+890,"['consistent', 'thread', 'holding', 'series', 'together', 'amazing', 'performances', 'leni', 'parker', 'anita', 'laselva', 'two', 'taelons', 'quiet', 'idealogical', 'conflict']",0,26
+891,"['movie', 'really', 'dislike']",0,8
+892,"['one', 'boring', 'horror', 'movies', 'mainly', 'starts', 'slow', 'centers', 'boring', 'atmosphere']",0,22
+893,"['puppets', 'look', 'really', 'cheesy', 'good', 'way', 'like', 'puppet', 'master', 'flicks']",0,18
+894,"['story', 'lame', 'interesting', 'never', 'really', 'explains', 'sinister', 'origins', 'puppets']",0,16
+895,"['arent', 'death', 'scenes', 'like', 'previous', 'movies', 'fx', 'terrible']",0,13
+896,"['felt', 'asleep', 'first', 'time', 'watched', 'recommend', 'insomniacs']",0,16
+897,"['fact', 'film', 'wonderful', 'heartwarming', 'tale', 'two', 'people', 'chasing', 'dreams']",1,16
+898,"['best', 'part', 'nurse', 'betty', 'unpredictability']",1,9
+899,"['director', 'neil', 'labute', 'uses', 'brutal', 'violence', 'seperate', 'dreams', 'reality', 'along', 'touching', 'drama', 'hilarious', 'comedy', 'never', 'tell', 'going', 'happen', 'next']",1,30
+900,"['otherwise', 'dont', 'even', 'waste', 'time']",0,8
+901,"['one', 'fails', 'create', 'real', 'suspense']",0,9
+902,"['killer', 'dont', 'expect', 'anything', 'original', 'even', 'remotely', 'frightening']",0,12
+903,"['however', 'pretty', 'good', 'acting', 'least', 'type', 'film']",1,14
+904,"['im', 'sorry', 'really', 'cant', 'recommend', 'anyone']",0,11
+905,"['one', 'boringpointless', 'movies', 'ever', 'seen']",0,10
+906,"['secondary', 'plot', 'line', 'incomprehensible', 'relation', 'primary', 'plot', 'line', 'mystifying']",0,16
+907,['hated'],0,2
+908,"['one', 'worst', 'sandra', 'bullock', 'movie', 'since', 'speed', 'quite', 'bad']",0,17
+909,"['dont', 'understand', 'garbage', 'got', 'shelves', 'movie', 'store', 'even', 'real', 'movie']",0,20
+910,"['highly', 'doubt', 'anyone', 'could', 'ever', 'like', 'trash']",0,10
+911,['moviemaking'],0,4
+912,"['acting', 'like', 'watching', 'wooden', 'puppets', 'moving', 'around', 'reading', 'book', 'thats', 'bad']",0,19
+913,"['warn', 'youdo', 'rent', 'movie', 'dumbest', 'thing', 'never', 'seen']",0,20
+914,"['saw', 'short', 'film', 'hbo', 'day', 'absolutely', 'loved']",1,14
+915,"['didnt', 'realize', 'wonderful', 'short', 'really', 'last', 'two', 'scenes']",1,14
+916,"['excellent', 'short', 'film']",1,3
+917,"['hopefully', 'director', 'james', 'cox', 'turn', 'short', 'feature', 'length', 'film', 'cast', 'win', 'us', 'whole', 'new', 'film']",1,27
+918,"['agree', 'jessica', 'movie', 'pretty', 'bad']",0,9
+919,"['characters', 'onedimensional', 'even', 'good', 'guys', 'especially', 'bad', 'guys']",0,12
+920,"['story', 'line', 'totally', 'predictable']",0,6
+921,"['much', 'dialogue', 'much', 'music', 'whole', 'film', 'shot', 'elaborately', 'aesthetically', 'like', 'sculpture']",1,18
+922,"['ive', 'seen', 'soap', 'operas', 'intelligent', 'movie']",0,9
+923,"['bad', 'characters', 'bad', 'story', 'bad', 'acting']",0,7
+924,"['really', 'awful']",0,2
+925,"['easy', 'watch']",0,4
+926,"['funny', 'clever', 'hip', 'like', 'prays', 'previous', 'film', 'hype']",1,10
+927,"['long', 'time', 'didnt', 'see', 'charismatic', 'actor', 'screen']",1,15
+928,"['paolo', 'sorrentino', 'written', 'wonderful', 'story', 'loneliness', 'tony', 'built', 'one', 'unforgettable', 'characters', 'seen', 'movies', 'recent', 'years']",1,25
+929,"['movie', 'completely', 'perfect', 'titta', 'di', 'girolamo', 'stay', 'long', 'time', 'vision', 'movie']",1,24
+930,"['rate', 'movie']",1,5
+931,"['know', 'emilio', 'estevezs', 'directorial', 'debut', 'pacing', 'interplay', 'development', 'characters', 'well', 'clever', 'camera', 'work', 'surrounding', 'character', 'estevez', 'plays', 'suggest', 'natural', 'eye']",1,38
+932,"['interplay', 'martin', 'emilio', 'contains', 'wonderful', 'chemistry', 'saw', 'wall', 'street', 'martin', 'charlie']",1,20
+933,"['kathy', 'bates', 'wonderful', 'characters', 'subtle', 'desperation', 'escapism', 'variation', 'character', 'play', 'fields', 'lord']",1,25
+934,"['readers', 'already', 'seen', 'one', 'miyazakis', 'films', 'still', 'top', 'form', 'made', 'another', 'worthwhile', 'experience']",1,21
+935,"['never', 'condescends', 'characters', 'good', 'genuine', 'hearts', 'believable', 'problems']",1,13
+936,"['two', 'main', 'characters', 'may', 'two', 'believable', 'children', 'ever', 'saw', 'put', 'screen']",1,18
+937,"['easy', 'love', 'even', 'easy', 'identify']",1,13
+938,"['movie', 'greatespecially', 'enjoy', 'visual', 'arts']",1,9
+939,"['scenery', 'two', 'daughters', 'paint', 'photograph', 'beautiful']",1,11
+940,"['story', 'also', 'funny', 'poignant', 'times']",1,10
+941,"['people', 'like', 'european', 'films', 'art', 'movies', 'like', 'movie']",1,12
+942,"['truly', 'art', 'movieit', 'actually', 'lot', 'art']",1,14
+943,"['go', 'rent']",1,3
+944,"['however', 'finally', 'watching', 'film', 'realized', 'closed', 'mind', 'brilliance', 'depicts', 'also', 'found', 'watching']",1,32
+945,"['one', 'movie', 'never', 'ceases', 'interest', 'simply', 'keeps', 'alert', 'try', 'attempt', 'decipher', 'meanings']",1,25
+946,"['brilliance', 'indeed']",1,2
+947,"['liked', 'movies', 'like', 'matrix', 'better', 'yet', 'sequels', 'think', 'youll', 'appreciate', 'thought', 'provoking', 'mindblowing', 'experience', 'film', 'give']",1,27
+948,"['think', 'film', 'like', 'dream']",1,8
+949,"['simply', 'beautiful']",1,2
+950,"['rickman', 'stowe', 'play', 'roles', 'hilt', 'tale', 'childrens', 'book', 'writer', 'maybe', 'written', 'subversive', 'tract']",1,25
+951,"['gloriously', 'fun', 'fast', 'paced', 'fairly', 'accurate', 'portrayal', 'night', 'raver']",1,16
+952,"['presents', 'idyllic', 'yet', 'serious', 'portrayal', 'ups', 'downs', 'characters', 'lives']",1,16
+953,"['whatever', 'avoid', 'groove', 'antithesis', 'good', 'human', 'traffic']",0,18
+954,"['bad', 'everyone', 'else', 'involved', 'didnt', 'share', 'crowes', 'level', 'dedication', 'quality', 'wed', 'far', 'better', 'film', 'hands', 'subpar', 'mess']",0,32
+955,"['movie', 'seemed', 'little', 'slow', 'first']",0,8
+956,"['picked', 'speed', 'got', 'right', 'point']",1,11
+957,"['showed', 'exactly', 'government', 'scientist', 'argued', 'humanity', 'reasons', 'gadget']",1,18
+958,['enjoyed'],1,3
+959,"['recommended', 'friends']",1,6
+960,"['particularly', 'pleased', 'acting', 'ability', 'dwight', 'schultz']",1,11
+961,"['actors', 'truly', 'understand', 'become', 'particular', 'character', 'delivering', 'convincing', 'sincere', 'performance']",1,14
+962,"['onscreen', 'chemistry', 'critical', 'entire', 'film', 'genuine']",1,10
+963,"['films', 'dialogue', 'natural', 'real', 'life']",1,8
+964,"['writer', 'gorman', 'bechard', 'undoubtedly', 'homework', 'references', 'industry', 'characterage', 'appropriate']",1,16
+965,"['incredible', 'soundtrack', 'truly', 'captures', 'essence', 'film']",1,10
+966,"['track', 'commands', 'sentiment', 'actually', 'contributing', 'scenes', 'characters']",1,11
+967,"['definitely', 'worth', 'seeing', 'sort', 'thought', 'provoking', 'film', 'forces', 'question', 'threshold', 'loneliness']",1,20
+968,"['hayao', 'miyazakis', 'latest', 'eighth', 'film', 'studio', 'ghibili', 'gake', 'ue', 'ponyo', 'ponyo', 'cliff', 'sea', 'wonderfully', 'fun', 'imaginative', 'look', 'childhood']",1,30
+969,"['time', 'seems', 'film', 'animation', 'dominated', 'disneypixars', 'cgi', 'masterpieces', 'refreshing', 'comforting', 'know', 'miyazaki', 'still', 'relying', 'traditional', 'handdrawn', 'animation', 'tell', 'charming', 'enchanting', 'stories']",1,40
+970,"['enough', 'said', 'remarkable', 'animation', 'film']",1,12
+971,"['art', 'style', 'appearance', 'crayonpencil', 'drawings', 'wonderfully', 'colorful', 'fanciful']",1,15
+972,"['act', 'film', 'glad', 'youre', 'gon', 'na', 'drift', 'away', 'earth', 'far', 'possible']",0,22
+973,"['one', 'wants', 'surf', 'small', 'wave', 'space', 'movies', 'deep', 'impact', 'armageddon', 'one', 'fails', 'everywhere']",0,23
+974,"['havent', 'choked', 'vomit', 'end', 'cheap', 'drama', 'worthless', 'dialogue', 'youve', 'must', 'bored', 'death', 'waste', 'time']",0,31
+975,"['still', 'makes', 'super', 'ending', 'depicts', 'great', 'sea', 'vessel', 'taken', 'mighty', 'frost']",1,25
+976,"['consider', 'excellent', 'story', 'solid', 'acting', 'look', 'film', 'added', 'bonuses']",1,15
+977,"['instead', 'got', 'bore', 'fest', 'whiny', 'spoiled', 'brat', 'babysitting']",0,12
+978,"['watched', 'two', 'sundays', 'ago', 'march', 'th', 'began', 'really', 'enjoy', 'time', 'taped', 'entire', 'thing']",1,26
+979,"['well', 'acted', 'done', 'tv', 'movie']",1,10
+980,"['judith', 'light', 'one', 'favorite', 'actresses', 'think', 'superb', 'job', 'film']",1,19
+981,"['keep', 'watching']",1,7
+982,"['sad', 'movie', 'good']",1,7
+983,"['seen', 'movie', 'definitely', 'recommend']",1,11
+984,"['lovely', 'usual', 'cutie']",1,8
+985,"['still', 'quite', 'interesting', 'entertaining', 'follow']",1,8
+986,"['recommend', 'confidence']",1,4
+987,"['movie', 'wellbalanced', 'comedy', 'drama', 'thoroughly', 'enjoyed']",1,13
+988,"['riot', 'see', 'hugo', 'weaving', 'play', 'sexobsessed', 'gay', 'real', 'estate', 'salesman', 'uses', 'clients', 'houses', 'trysts', 'flaming', 'darren', 'tom', 'hollander']",1,29
+989,"['anyway', 'plot', 'flowed', 'smoothly', 'malebonding', 'scenes', 'hoot']",1,13
+990,"['opening', 'sequence', 'gem', 'classic', 'cat', 'n', 'mouse', 'games', 'follow', 'delight', 'watch']",1,22
+991,"['fans', 'genre', 'heaven']",1,8
+992,"['lange', 'become', 'great', 'actress']",1,6
+993,"['looked', 'like', 'wonderful', 'story']",1,6
+994,"['never', 'walked', 'movie', 'faster']",0,8
+995,"['got', 'bored', 'watching', 'jessice', 'lange', 'take', 'clothes']",0,11
+996,"['unfortunately', 'virtue', 'films', 'production', 'work', 'lost', 'regrettable', 'script']",0,14
+997,"['word', 'embarrassing']",0,6
+998,"['exceptionally', 'bad']",0,2
+999,"['insult', 'ones', 'intelligence', 'huge', 'waste', 'money']",0,15
