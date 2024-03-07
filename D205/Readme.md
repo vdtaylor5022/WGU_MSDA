@@ -1,4 +1,4 @@
-Data Cleaning continues building proficiency in the data analytics life cycle with data preparation skills. This course addresses exploring, transforming, and imputing data as well as handling outliers. Learners write code to manipulate, structure, and clean data as well as to reduce features in data sets.
+Data Acquisition builds proficiency in Structured Query Language (SQL) and the initial stages of the data analytics lifecycle. The course introduces relational databases. 
 
 This is my course markup from D205. Below are the compentencies demonstrated.
 
