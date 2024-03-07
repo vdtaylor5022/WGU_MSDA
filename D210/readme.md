@@ -1,3 +1,6 @@
+Link to my tableau project; https://public.tableau.com/shared/YHR5M9P96?:display_count=n&:origin=viz_share_link
+
+
 Representation and Reporting focuses on communicating observations and patterns to diverse stakeholders, a key aspect of the data analytics life cycle. This course helps students gain communication and storytelling skills. It also covers data visualizations, audio representations, and interactive dashboards. 
 
 
